@@ -1,0 +1,513 @@
+# inbox整理レポート（2026-05-10・差分2）
+
+## 実施内容
+- inbox内の通常ファイルをスキャンしました。
+- 既存の originals/、markdown/raw/、markdown/cleaned/、inbox/archive-original-md/ と照合しました。
+- 重複候補を除くPDFを originals/ に移動しました。
+- PDF/Markdownから markdown/raw/ と markdown/cleaned/ にMarkdownを生成しました。
+- 生成Markdownには指定frontmatterを付与しました。
+- inbox内Markdownは raw/cleaned 生成後、inbox/archive-original-md/ に移動しました。
+- case-index.md、analysis/、chapter-plan は変更していません。
+
+## 新規投入ファイル数
+- PDF: 139件
+- Markdown: 13件
+- 合計: 152件
+
+## 移動PDF一覧
+- 00.references/cases/inbox/125-154 (1).pdf -> 00.references/cases/originals/125-154 (1).pdf
+- 00.references/cases/inbox/retio_hanrei_120-146.pdf -> 00.references/cases/originals/retio_hanrei_120-146.pdf
+- 00.references/cases/inbox/retio_hanrei_120-148.pdf -> 00.references/cases/originals/retio_hanrei_120-148.pdf
+- 00.references/cases/inbox/retio_hanrei_120-150.pdf -> 00.references/cases/originals/retio_hanrei_120-150.pdf
+- 00.references/cases/inbox/retio_hanrei_120-152.pdf -> 00.references/cases/originals/retio_hanrei_120-152.pdf
+- 00.references/cases/inbox/retio_hanrei_120-154.pdf -> 00.references/cases/originals/retio_hanrei_120-154.pdf
+- 00.references/cases/inbox/retio_hanrei_120-156.pdf -> 00.references/cases/originals/retio_hanrei_120-156.pdf
+- 00.references/cases/inbox/retio_hanrei_120-158.pdf -> 00.references/cases/originals/retio_hanrei_120-158.pdf
+- 00.references/cases/inbox/retio_hanrei_120-160.pdf -> 00.references/cases/originals/retio_hanrei_120-160.pdf
+- 00.references/cases/inbox/retio_hanrei_120-162.pdf -> 00.references/cases/originals/retio_hanrei_120-162.pdf
+- 00.references/cases/inbox/retio_hanrei_120-164.pdf -> 00.references/cases/originals/retio_hanrei_120-164.pdf
+- 00.references/cases/inbox/retio_hanrei_120-166.pdf -> 00.references/cases/originals/retio_hanrei_120-166.pdf
+- 00.references/cases/inbox/retio_hanrei_120-168.pdf -> 00.references/cases/originals/retio_hanrei_120-168.pdf
+- 00.references/cases/inbox/retio_hanrei_120-170.pdf -> 00.references/cases/originals/retio_hanrei_120-170.pdf
+- 00.references/cases/inbox/retio_hanrei_120-172.pdf -> 00.references/cases/originals/retio_hanrei_120-172.pdf
+- 00.references/cases/inbox/retio_hanrei_120-174.pdf -> 00.references/cases/originals/retio_hanrei_120-174.pdf
+- 00.references/cases/inbox/retio_hanrei_120-176.pdf -> 00.references/cases/originals/retio_hanrei_120-176.pdf
+- 00.references/cases/inbox/retio_hanrei_121-132.pdf -> 00.references/cases/originals/retio_hanrei_121-132.pdf
+- 00.references/cases/inbox/retio_hanrei_121-134.pdf -> 00.references/cases/originals/retio_hanrei_121-134.pdf
+- 00.references/cases/inbox/retio_hanrei_121-136.pdf -> 00.references/cases/originals/retio_hanrei_121-136.pdf
+- 00.references/cases/inbox/retio_hanrei_121-138.pdf -> 00.references/cases/originals/retio_hanrei_121-138.pdf
+- 00.references/cases/inbox/retio_hanrei_121-140.pdf -> 00.references/cases/originals/retio_hanrei_121-140.pdf
+- 00.references/cases/inbox/retio_hanrei_121-142.pdf -> 00.references/cases/originals/retio_hanrei_121-142.pdf
+- 00.references/cases/inbox/retio_hanrei_121-144.pdf -> 00.references/cases/originals/retio_hanrei_121-144.pdf
+- 00.references/cases/inbox/retio_hanrei_121-146.pdf -> 00.references/cases/originals/retio_hanrei_121-146.pdf
+- 00.references/cases/inbox/retio_hanrei_121-148.pdf -> 00.references/cases/originals/retio_hanrei_121-148.pdf
+- 00.references/cases/inbox/retio_hanrei_121-150.pdf -> 00.references/cases/originals/retio_hanrei_121-150.pdf
+- 00.references/cases/inbox/retio_hanrei_121-152.pdf -> 00.references/cases/originals/retio_hanrei_121-152.pdf
+- 00.references/cases/inbox/retio_hanrei_121-154.pdf -> 00.references/cases/originals/retio_hanrei_121-154.pdf
+- 00.references/cases/inbox/retio_hanrei_121-156.pdf -> 00.references/cases/originals/retio_hanrei_121-156.pdf
+- 00.references/cases/inbox/retio_hanrei_121-158.pdf -> 00.references/cases/originals/retio_hanrei_121-158.pdf
+- 00.references/cases/inbox/retio_hanrei_121-160.pdf -> 00.references/cases/originals/retio_hanrei_121-160.pdf
+- 00.references/cases/inbox/retio_hanrei_121-162.pdf -> 00.references/cases/originals/retio_hanrei_121-162.pdf
+- 00.references/cases/inbox/retio_hanrei_122-148.pdf -> 00.references/cases/originals/retio_hanrei_122-148.pdf
+- 00.references/cases/inbox/retio_hanrei_122-150.pdf -> 00.references/cases/originals/retio_hanrei_122-150.pdf
+- 00.references/cases/inbox/retio_hanrei_122-152.pdf -> 00.references/cases/originals/retio_hanrei_122-152.pdf
+- 00.references/cases/inbox/retio_hanrei_122-154.pdf -> 00.references/cases/originals/retio_hanrei_122-154.pdf
+- 00.references/cases/inbox/retio_hanrei_122-156.pdf -> 00.references/cases/originals/retio_hanrei_122-156.pdf
+- 00.references/cases/inbox/retio_hanrei_122-158.pdf -> 00.references/cases/originals/retio_hanrei_122-158.pdf
+- 00.references/cases/inbox/retio_hanrei_122-160.pdf -> 00.references/cases/originals/retio_hanrei_122-160.pdf
+- 00.references/cases/inbox/retio_hanrei_122-162.pdf -> 00.references/cases/originals/retio_hanrei_122-162.pdf
+- 00.references/cases/inbox/retio_hanrei_122-164.pdf -> 00.references/cases/originals/retio_hanrei_122-164.pdf
+- 00.references/cases/inbox/retio_hanrei_122-166.pdf -> 00.references/cases/originals/retio_hanrei_122-166.pdf
+- 00.references/cases/inbox/retio_hanrei_122-168.pdf -> 00.references/cases/originals/retio_hanrei_122-168.pdf
+- 00.references/cases/inbox/retio_hanrei_122-170.pdf -> 00.references/cases/originals/retio_hanrei_122-170.pdf
+- 00.references/cases/inbox/retio_hanrei_122-172.pdf -> 00.references/cases/originals/retio_hanrei_122-172.pdf
+- 00.references/cases/inbox/retio_hanrei_122-174.pdf -> 00.references/cases/originals/retio_hanrei_122-174.pdf
+- 00.references/cases/inbox/retio_hanrei_122-176.pdf -> 00.references/cases/originals/retio_hanrei_122-176.pdf
+- 00.references/cases/inbox/retio_hanrei_122-178.pdf -> 00.references/cases/originals/retio_hanrei_122-178.pdf
+- 00.references/cases/inbox/retio_hanrei_123-090.pdf -> 00.references/cases/originals/retio_hanrei_123-090.pdf
+- 00.references/cases/inbox/retio_hanrei_123-092.pdf -> 00.references/cases/originals/retio_hanrei_123-092.pdf
+- 00.references/cases/inbox/retio_hanrei_123-094.pdf -> 00.references/cases/originals/retio_hanrei_123-094.pdf
+- 00.references/cases/inbox/retio_hanrei_123-096.pdf -> 00.references/cases/originals/retio_hanrei_123-096.pdf
+- 00.references/cases/inbox/retio_hanrei_123-098.pdf -> 00.references/cases/originals/retio_hanrei_123-098.pdf
+- 00.references/cases/inbox/retio_hanrei_123-100.pdf -> 00.references/cases/originals/retio_hanrei_123-100.pdf
+- 00.references/cases/inbox/retio_hanrei_123-102.pdf -> 00.references/cases/originals/retio_hanrei_123-102.pdf
+- 00.references/cases/inbox/retio_hanrei_123-104.pdf -> 00.references/cases/originals/retio_hanrei_123-104.pdf
+- 00.references/cases/inbox/retio_hanrei_123-106.pdf -> 00.references/cases/originals/retio_hanrei_123-106.pdf
+- 00.references/cases/inbox/retio_hanrei_123-108.pdf -> 00.references/cases/originals/retio_hanrei_123-108.pdf
+- 00.references/cases/inbox/retio_hanrei_123-110.pdf -> 00.references/cases/originals/retio_hanrei_123-110.pdf
+- 00.references/cases/inbox/retio_hanrei_123-112.pdf -> 00.references/cases/originals/retio_hanrei_123-112.pdf
+- 00.references/cases/inbox/retio_hanrei_123-114.pdf -> 00.references/cases/originals/retio_hanrei_123-114.pdf
+- 00.references/cases/inbox/retio_hanrei_123-116.pdf -> 00.references/cases/originals/retio_hanrei_123-116.pdf
+- 00.references/cases/inbox/retio_hanrei_123-118.pdf -> 00.references/cases/originals/retio_hanrei_123-118.pdf
+- 00.references/cases/inbox/retio_hanrei_123-120.pdf -> 00.references/cases/originals/retio_hanrei_123-120.pdf
+- 00.references/cases/inbox/retio_hanrei_124-152.pdf -> 00.references/cases/originals/retio_hanrei_124-152.pdf
+- 00.references/cases/inbox/retio_hanrei_124-154.pdf -> 00.references/cases/originals/retio_hanrei_124-154.pdf
+- 00.references/cases/inbox/retio_hanrei_124-156.pdf -> 00.references/cases/originals/retio_hanrei_124-156.pdf
+- 00.references/cases/inbox/retio_hanrei_124-158.pdf -> 00.references/cases/originals/retio_hanrei_124-158.pdf
+- 00.references/cases/inbox/retio_hanrei_124-160.pdf -> 00.references/cases/originals/retio_hanrei_124-160.pdf
+- 00.references/cases/inbox/retio_hanrei_124-162.pdf -> 00.references/cases/originals/retio_hanrei_124-162.pdf
+- 00.references/cases/inbox/retio_hanrei_124-164.pdf -> 00.references/cases/originals/retio_hanrei_124-164.pdf
+- 00.references/cases/inbox/retio_hanrei_124-166.pdf -> 00.references/cases/originals/retio_hanrei_124-166.pdf
+- 00.references/cases/inbox/retio_hanrei_124-168.pdf -> 00.references/cases/originals/retio_hanrei_124-168.pdf
+- 00.references/cases/inbox/retio_hanrei_124-170.pdf -> 00.references/cases/originals/retio_hanrei_124-170.pdf
+- 00.references/cases/inbox/retio_hanrei_124-172.pdf -> 00.references/cases/originals/retio_hanrei_124-172.pdf
+- 00.references/cases/inbox/retio_hanrei_124-174.pdf -> 00.references/cases/originals/retio_hanrei_124-174.pdf
+- 00.references/cases/inbox/retio_hanrei_124-176.pdf -> 00.references/cases/originals/retio_hanrei_124-176.pdf
+- 00.references/cases/inbox/retio_hanrei_124-178.pdf -> 00.references/cases/originals/retio_hanrei_124-178.pdf
+- 00.references/cases/inbox/retio_hanrei_124-180.pdf -> 00.references/cases/originals/retio_hanrei_124-180.pdf
+- 00.references/cases/inbox/retio_hanrei_124-182.pdf -> 00.references/cases/originals/retio_hanrei_124-182.pdf
+- 00.references/cases/inbox/retio_hanrei_125-134.pdf -> 00.references/cases/originals/retio_hanrei_125-134.pdf
+- 00.references/cases/inbox/retio_hanrei_125-136.pdf -> 00.references/cases/originals/retio_hanrei_125-136.pdf
+- 00.references/cases/inbox/retio_hanrei_125-138.pdf -> 00.references/cases/originals/retio_hanrei_125-138.pdf
+- 00.references/cases/inbox/retio_hanrei_125-140.pdf -> 00.references/cases/originals/retio_hanrei_125-140.pdf
+- 00.references/cases/inbox/retio_hanrei_125-142.pdf -> 00.references/cases/originals/retio_hanrei_125-142.pdf
+- 00.references/cases/inbox/retio_hanrei_125-144.pdf -> 00.references/cases/originals/retio_hanrei_125-144.pdf
+- 00.references/cases/inbox/retio_hanrei_125-146.pdf -> 00.references/cases/originals/retio_hanrei_125-146.pdf
+- 00.references/cases/inbox/retio_hanrei_125-148.pdf -> 00.references/cases/originals/retio_hanrei_125-148.pdf
+- 00.references/cases/inbox/retio_hanrei_125-150.pdf -> 00.references/cases/originals/retio_hanrei_125-150.pdf
+- 00.references/cases/inbox/retio_hanrei_125-152.pdf -> 00.references/cases/originals/retio_hanrei_125-152.pdf
+- 00.references/cases/inbox/retio_hanrei_125-154.pdf -> 00.references/cases/originals/retio_hanrei_125-154.pdf
+- 00.references/cases/inbox/retio_hanrei_125-156.pdf -> 00.references/cases/originals/retio_hanrei_125-156.pdf
+- 00.references/cases/inbox/retio_hanrei_125-158.pdf -> 00.references/cases/originals/retio_hanrei_125-158.pdf
+- 00.references/cases/inbox/retio_hanrei_125-160.pdf -> 00.references/cases/originals/retio_hanrei_125-160.pdf
+- 00.references/cases/inbox/retio_hanrei_125-164.pdf -> 00.references/cases/originals/retio_hanrei_125-164.pdf
+- 00.references/cases/inbox/retio_hanrei_126-096.pdf -> 00.references/cases/originals/retio_hanrei_126-096.pdf
+- 00.references/cases/inbox/retio_hanrei_126-098.pdf -> 00.references/cases/originals/retio_hanrei_126-098.pdf
+- 00.references/cases/inbox/retio_hanrei_126-100.pdf -> 00.references/cases/originals/retio_hanrei_126-100.pdf
+- 00.references/cases/inbox/retio_hanrei_126-102.pdf -> 00.references/cases/originals/retio_hanrei_126-102.pdf
+- 00.references/cases/inbox/retio_hanrei_126-104.pdf -> 00.references/cases/originals/retio_hanrei_126-104.pdf
+- 00.references/cases/inbox/retio_hanrei_126-106.pdf -> 00.references/cases/originals/retio_hanrei_126-106.pdf
+- 00.references/cases/inbox/retio_hanrei_126-108.pdf -> 00.references/cases/originals/retio_hanrei_126-108.pdf
+- 00.references/cases/inbox/retio_hanrei_126-110.pdf -> 00.references/cases/originals/retio_hanrei_126-110.pdf
+- 00.references/cases/inbox/retio_hanrei_126-112.pdf -> 00.references/cases/originals/retio_hanrei_126-112.pdf
+- 00.references/cases/inbox/retio_hanrei_126-114.pdf -> 00.references/cases/originals/retio_hanrei_126-114.pdf
+- 00.references/cases/inbox/retio_hanrei_126-116.pdf -> 00.references/cases/originals/retio_hanrei_126-116.pdf
+- 00.references/cases/inbox/retio_hanrei_126-118.pdf -> 00.references/cases/originals/retio_hanrei_126-118.pdf
+- 00.references/cases/inbox/retio_hanrei_126-120.pdf -> 00.references/cases/originals/retio_hanrei_126-120.pdf
+- 00.references/cases/inbox/retio_hanrei_126-122.pdf -> 00.references/cases/originals/retio_hanrei_126-122.pdf
+- 00.references/cases/inbox/retio_hanrei_126-124.pdf -> 00.references/cases/originals/retio_hanrei_126-124.pdf
+- 00.references/cases/inbox/retio_hanrei_127-136.pdf -> 00.references/cases/originals/retio_hanrei_127-136.pdf
+- 00.references/cases/inbox/retio_hanrei_127-138.pdf -> 00.references/cases/originals/retio_hanrei_127-138.pdf
+- 00.references/cases/inbox/retio_hanrei_127-140.pdf -> 00.references/cases/originals/retio_hanrei_127-140.pdf
+- 00.references/cases/inbox/retio_hanrei_127-142.pdf -> 00.references/cases/originals/retio_hanrei_127-142.pdf
+- 00.references/cases/inbox/retio_hanrei_127-144.pdf -> 00.references/cases/originals/retio_hanrei_127-144.pdf
+- 00.references/cases/inbox/retio_hanrei_127-146.pdf -> 00.references/cases/originals/retio_hanrei_127-146.pdf
+- 00.references/cases/inbox/retio_hanrei_127-148.pdf -> 00.references/cases/originals/retio_hanrei_127-148.pdf
+- 00.references/cases/inbox/retio_hanrei_127-150.pdf -> 00.references/cases/originals/retio_hanrei_127-150.pdf
+- 00.references/cases/inbox/retio_hanrei_127-152.pdf -> 00.references/cases/originals/retio_hanrei_127-152.pdf
+- 00.references/cases/inbox/retio_hanrei_127-154.pdf -> 00.references/cases/originals/retio_hanrei_127-154.pdf
+- 00.references/cases/inbox/retio_hanrei_127-156.pdf -> 00.references/cases/originals/retio_hanrei_127-156.pdf
+- 00.references/cases/inbox/retio_hanrei_127-158.pdf -> 00.references/cases/originals/retio_hanrei_127-158.pdf
+- 00.references/cases/inbox/retio_hanrei_127-160.pdf -> 00.references/cases/originals/retio_hanrei_127-160.pdf
+- 00.references/cases/inbox/retio_hanrei_127-162.pdf -> 00.references/cases/originals/retio_hanrei_127-162.pdf
+- 00.references/cases/inbox/retio_hanrei_128-136.pdf -> 00.references/cases/originals/retio_hanrei_128-136.pdf
+- 00.references/cases/inbox/retio_hanrei_128-138.pdf -> 00.references/cases/originals/retio_hanrei_128-138.pdf
+- 00.references/cases/inbox/retio_hanrei_128-140.pdf -> 00.references/cases/originals/retio_hanrei_128-140.pdf
+- 00.references/cases/inbox/retio_hanrei_128-142.pdf -> 00.references/cases/originals/retio_hanrei_128-142.pdf
+- 00.references/cases/inbox/retio_hanrei_128-144.pdf -> 00.references/cases/originals/retio_hanrei_128-144.pdf
+- 00.references/cases/inbox/retio_hanrei_128-146.pdf -> 00.references/cases/originals/retio_hanrei_128-146.pdf
+- 00.references/cases/inbox/retio_hanrei_128-148.pdf -> 00.references/cases/originals/retio_hanrei_128-148.pdf
+- 00.references/cases/inbox/retio_hanrei_128-150.pdf -> 00.references/cases/originals/retio_hanrei_128-150.pdf
+- 00.references/cases/inbox/retio_hanrei_128-152.pdf -> 00.references/cases/originals/retio_hanrei_128-152.pdf
+- 00.references/cases/inbox/retio_hanrei_128-154.pdf -> 00.references/cases/originals/retio_hanrei_128-154.pdf
+- 00.references/cases/inbox/retio_hanrei_128-156.pdf -> 00.references/cases/originals/retio_hanrei_128-156.pdf
+- 00.references/cases/inbox/retio_hanrei_128-158.pdf -> 00.references/cases/originals/retio_hanrei_128-158.pdf
+- 00.references/cases/inbox/retio_hanrei_128-160.pdf -> 00.references/cases/originals/retio_hanrei_128-160.pdf
+
+## 生成Markdown一覧
+- raw: `00.references/cases/markdown/raw/2022-02-28.baibai.買主が融資申込手続きを怠ったとして融資利用特約の適用を拒む売主に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-02-28.baibai.買主が融資申込手続きを怠ったとして融資利用特約の適用を拒む売主に.md`
+- raw: `00.references/cases/markdown/raw/2022-03-31.genjo.貸室でのコインランドリー営業に伴う無断改装工事及び振動・騒音への.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-03-31.genjo.貸室でのコインランドリー営業に伴う無断改装工事及び振動・騒音への.md`
+- raw: `00.references/cases/markdown/raw/2021-03-10.genjo.借主に無断で内装や備品を撤去したことは自力救済であるとして、貸主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-03-10.genjo.借主に無断で内装や備品を撤去したことは自力救済であるとして、貸主.md`
+- raw: `00.references/cases/markdown/raw/2021-12-14.genjo.築50年超のアパートの立ち退きについて、家賃6か月分の立退料をも.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-12-14.genjo.築50年超のアパートの立ち退きについて、家賃6か月分の立退料をも.md`
+- raw: `00.references/cases/markdown/raw/2022-01-13.baibai.従業員の競業義務違反等により生じた損害に対する雇用主の損害賠償請.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-01-13.baibai.従業員の競業義務違反等により生じた損害に対する雇用主の損害賠償請.md`
+- raw: `00.references/cases/markdown/raw/2022-02-07.baibai.三為契約における融資特約の主体が、契約書上の買主か、最終購入者か.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-02-07.baibai.三為契約における融資特約の主体が、契約書上の買主か、最終購入者か.md`
+- raw: `00.references/cases/markdown/raw/2021-11-17.kokuchi.建築中建物の建築確認処分が取消され、引渡しを受けられなかった買主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-11-17.kokuchi.建築中建物の建築確認処分が取消され、引渡しを受けられなかった買主.md`
+- raw: `00.references/cases/markdown/raw/2022-02-17.genjo.建物価値を超える補修費用が掛かる雨漏りを故意に告知しなかった売主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-02-17.genjo.建物価値を超える補修費用が掛かる雨漏りを故意に告知しなかった売主.md`
+- raw: `00.references/cases/markdown/raw/2022-03-23.genjo.売主が管理組合に対して負っていた原状回復に係る債務の精算を媒介業.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-03-23.genjo.売主が管理組合に対して負っていた原状回復に係る債務の精算を媒介業.md`
+- raw: `00.references/cases/markdown/raw/2022-01-13.genjo.中古の設備等について売主業者は瑕疵担保責任を負わないとする特約が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2022-01-13.genjo.中古の設備等について売主業者は瑕疵担保責任を負わないとする特約が.md`
+- raw: `00.references/cases/markdown/raw/2021-09-17.genjo.買主代理人が過去取引のトラブルが理由で媒介を辞退した売主側媒介業.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-09-17.genjo.買主代理人が過去取引のトラブルが理由で媒介を辞退した売主側媒介業.md`
+- raw: `00.references/cases/markdown/raw/2021-11-29.genjo.消防法の規制によって賃貸対象物件が事業目的として利用できないとす.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-11-29.genjo.消防法の規制によって賃貸対象物件が事業目的として利用できないとす.md`
+- raw: `00.references/cases/markdown/raw/2021-12-23.genjo.定期建物賃貸借契約の再契約にあたり、契約開始日が契約締結日前であ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-12-23.genjo.定期建物賃貸借契約の再契約にあたり、契約開始日が契約締結日前であ.md`
+- raw: `00.references/cases/markdown/raw/2020-03-09.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-09.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-08-29.kokuchi.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-08-29.kokuchi.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2018-06-18.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-06-18.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2017-03-24.kokuchi.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-03-24.kokuchi.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-11-20.kokuchi.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-11-20.kokuchi.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-12-03.baibai.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-12-03.baibai.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2018-04-16.baibai.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-04-16.baibai.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2018-12-18.baibai.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-12-18.baibai.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-05-29.baibai.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-05-29.baibai.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2018-04-05.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-04-05.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-11-27.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-11-27.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-12-12.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-12-12.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-11-26.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-11-26.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-01.genjo.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-01.genjo.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-12-25.kokuchi.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-12-25.kokuchi.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-01-11.kanri.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-11.kanri.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-30.kanri.RETIO.NO.1202021年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-30.kanri.RETIO.NO.1202021年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-14.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-14.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-30.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-30.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-27.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-27.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-12-26.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-12-26.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-23.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-23.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2018-03-28.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-28.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2018-11-29.baibai.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-11-29.baibai.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2017-09-11.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-11.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-24.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-24.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-26.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-26.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2017-06-22.kokuchi.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-06-22.kokuchi.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-31.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-31.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-02-21.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-02-21.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2018-10-04.kanri.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-10-04.kanri.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-09-17.soon.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-17.soon.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-04-09.genjo.RETIO.NO.1212021年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-04-09.genjo.RETIO.NO.1212021年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-18.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-18.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-10.baibai.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-10.baibai.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-18.kokuchi.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-18.kokuchi.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-07-22.kokuchi.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-07-22.kokuchi.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-29.soon.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-29.soon.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-18.genjo.RETIO.NO.1222021年夏号-2.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-18.genjo.RETIO.NO.1222021年夏号-2.md`
+- raw: `00.references/cases/markdown/raw/2020-02-26.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-26.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-09-03.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-03.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2013-02-21.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2013-02-21.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-04-25.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-04-25.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-12-05.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-12-05.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-05-19.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-05-19.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-07-17.genjo.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-07-17.genjo.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-03-15.kokuchi.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-03-15.kokuchi.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-07-18.kanri.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-07-18.kanri.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-27.soon.RETIO.NO.1222021年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-27.soon.RETIO.NO.1222021年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-01-06.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-01-06.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-06-23.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-06-23.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-11-20.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-11-20.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-11-16.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-11-16.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-29.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-29.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-12-09.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-12-09.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-09.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-09.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-13.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-13.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-12-08.soon.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-12-08.soon.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-09-24.kokuchi.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-09-24.kokuchi.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-07.genjo.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-07.genjo.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-16.genjo.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-16.genjo.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-31.genjo.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-31.genjo.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-12-24.genjo.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-12-24.genjo.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-09-23.genjo.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-09-23.genjo.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-27.soon.RETIO.NO.1232021年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-27.soon.RETIO.NO.1232021年秋号.md`
+- raw: `00.references/cases/markdown/raw/2019-08-30.baibai.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-08-30.baibai.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2021-03-15.baibai.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-03-15.baibai.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-06-11.soon.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-06-11.soon.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-05-27.kokuchi.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-05-27.kokuchi.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-11-26.kokuchi.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-11-26.kokuchi.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-23.kokuchi.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-23.kokuchi.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-12-10.baibai.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-12-10.baibai.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2021-09-15.kokuchi.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-09-15.kokuchi.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2019-10-25.genjo.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-25.genjo.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-01.genjo.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-01.genjo.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2017-07-20.genjo.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-07-20.genjo.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-01-29.genjo.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-29.genjo.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-21.kanri.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-21.kanri.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-18.genjo.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-18.genjo.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-07-07.kanri.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-07-07.kanri.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-07.kanri.RETIO.NO.1242022年冬号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-07.kanri.RETIO.NO.1242022年冬号.md`
+- raw: `00.references/cases/markdown/raw/2020-09-25.kokuchi.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-09-25.kokuchi.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-02.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-02.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-04-13.soon.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-04-13.soon.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-04-13.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-04-13.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-11-19.kokuchi.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-11-19.kokuchi.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-02-25.kokuchi.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-02-25.kokuchi.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-03-09.kokuchi.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-03-09.kokuchi.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-02-26.kanri.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-02-26.kanri.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-06-29.kokuchi.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-06-29.kokuchi.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2017-12-07.baibai.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-07.baibai.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-03-10.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-10.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2021-02-26.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-02-26.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-10-07.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-10-07.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2020-02-18.genjo.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-02-18.genjo.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-05-17.kanri.RETIO.NO.1252022年春号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-05-17.kanri.RETIO.NO.1252022年春号.md`
+- raw: `00.references/cases/markdown/raw/2019-01-23.baibai.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-23.baibai.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-10-14.genjo.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-10-14.genjo.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-11-18.kokuchi.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-11-18.kokuchi.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-11-26.baibai.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-11-26.baibai.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2020-09-24.kokuchi.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-09-24.kokuchi.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-03-30.baibai.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-03-30.baibai.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-06-18.kokuchi.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-06-18.kokuchi.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-07-28.kokuchi.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-07-28.kokuchi.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-07-20.kokuchi.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-07-20.kokuchi.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-07-20.kanri.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-07-20.kanri.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-04-23.genjo.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-04-23.genjo.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2021-06-22.genjo.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-06-22.genjo.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-05-27.genjo.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-05-27.genjo.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2019-08-21.kanri.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-08-21.kanri.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2018-01-31.baibai.RETIO.NO.1262022年夏号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-01-31.baibai.RETIO.NO.1262022年夏号.md`
+- raw: `00.references/cases/markdown/raw/2014-09-10.genjo.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2014-09-10.genjo.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-11-26.kokuchi.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-11-26.kokuchi.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-11-25.kokuchi.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-11-25.kokuchi.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-08-31.genjo.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-08-31.genjo.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-09-30.soon.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-09-30.soon.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-08-10.kokuchi.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-08-10.kokuchi.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-10-22.baibai.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-10-22.baibai.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-09-29.genjo.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-09-29.genjo.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-08-26.kanri.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-08-26.kanri.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-03-29.baibai.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-03-29.baibai.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-10-27.baibai.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-10-27.baibai.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-01-26.genjo.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-01-26.genjo.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2021-08-25.soon.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2021-08-25.soon.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/2018-12-12.genjo.RETIO.NO.1272022年秋号.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-12-12.genjo.RETIO.NO.1272022年秋号.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-136.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-136.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-138.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-138.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-140.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-140.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-142.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-142.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-144.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-144.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-146.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-146.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-148.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-148.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-150.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-150.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-152.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-152.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-154.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-154.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-156.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-156.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-158.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-158.pdf.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kanri.retio_hanrei_128-160.pdf.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kanri.retio_hanrei_128-160.pdf.md`
+
+## archive-original-md に移動したMarkdown一覧
+- 00.references/cases/inbox/retio129-1.md -> 00.references/cases/inbox/archive-original-md/retio129-1.md
+- 00.references/cases/inbox/retio129-10.md -> 00.references/cases/inbox/archive-original-md/retio129-10.md
+- 00.references/cases/inbox/retio129-11.md -> 00.references/cases/inbox/archive-original-md/retio129-11.md
+- 00.references/cases/inbox/retio129-12.md -> 00.references/cases/inbox/archive-original-md/retio129-12.md
+- 00.references/cases/inbox/retio129-13.md -> 00.references/cases/inbox/archive-original-md/retio129-13.md
+- 00.references/cases/inbox/retio129-2.md -> 00.references/cases/inbox/archive-original-md/retio129-2.md
+- 00.references/cases/inbox/retio129-3.md -> 00.references/cases/inbox/archive-original-md/retio129-3.md
+- 00.references/cases/inbox/retio129-4.md -> 00.references/cases/inbox/archive-original-md/retio129-4.md
+- 00.references/cases/inbox/retio129-5.md -> 00.references/cases/inbox/archive-original-md/retio129-5.md
+- 00.references/cases/inbox/retio129-6.md -> 00.references/cases/inbox/archive-original-md/retio129-6.md
+- 00.references/cases/inbox/retio129-7.md -> 00.references/cases/inbox/archive-original-md/retio129-7.md
+- 00.references/cases/inbox/retio129-8.md -> 00.references/cases/inbox/archive-original-md/retio129-8.md
+- 00.references/cases/inbox/retio129-9.md -> 00.references/cases/inbox/archive-original-md/retio129-9.md
+
+## 重複候補
+- `retio_no137-128.pdf`: 同名PDFまたは同一source_pdfが originals/raw/cleaned に存在
+
+## 未整理候補
+- `retio_no137-128.pdf`
+
+## date-unknown 件数
+- raw: 13件
+- cleaned: 13件
+- 合計: 26件
+
+## 2026-05-09 など処理日始まりのファイル確認
+- raw: 0件
+- cleaned: 0件
+- 対象: 2026-05-09 / 2026-05-10 始まり
+
+## OCR誤認候補の日付確認
+- 判定範囲: 1900-01-01〜1950-12-31
+- 該当: `1908-07-03.baibai.RETIO.NO.1202021年冬号.md`（raw/cleaned 各1件）
+- 原因: 本件判決日ではなく、本文中の参照判例「大審判 明41・7・3」を拾っていた。
+- 元PDF再確認結果: `retio_hanrei_120-154.pdf` 1ページ目の見出しに「東京地判 令元・12・3」と記載。
+- 対応: raw/cleaned とも `2019-12-03.baibai.RETIO.NO.1202021年冬号.md` に修正済み。
+- 追加確認: `1996-10-31.kanri.RETIO.NO.1242022年冬号.md` は、本件判決日ではなく本文中の参考裁判例「最高判平8・10・31」を拾っていた。
+- 元PDF再確認結果: `retio_hanrei_124-180.pdf` 1ページ目の見出しに「東京地判 令2・7・7」と記載。
+- 対応: raw/cleaned とも `2020-07-07.kanri.RETIO.NO.1242022年冬号.md` に修正し、frontmatter の title を本件タイトルに補正済み。
+
+## エラー
+- なし
+
+## case-index.md
+- case-index.md は変更していません。
+
+## 最終確認
+- raw件数: 239
+- cleaned件数: 239
+- inboxに残った通常ファイル: retio_no137-128.pdf
+- date-unknown始まりの件数: 26
+- 処理日始まりの件数: 0
