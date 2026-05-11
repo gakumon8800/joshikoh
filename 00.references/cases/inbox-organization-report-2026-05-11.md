@@ -1,0 +1,542 @@
+# inbox整理レポート（2026-05-11）
+
+## 実施内容
+- inbox内の通常ファイルをスキャンしました。
+- 既存の originals/、markdown/raw/、markdown/cleaned/、inbox/archive-original-md/、過去レポートと照合しました。
+- 重複候補を除くPDFを originals/ に移動しました。
+- PDF/Markdownから markdown/raw/ と markdown/cleaned/ にMarkdownを生成しました。
+- 生成Markdownには指定frontmatterを付与しました。
+- inbox内Markdownは raw/cleaned 生成後、inbox/archive-original-md/ に移動しました。
+- case-index.md、analysis/、chapter-plan、templates/ は変更していません。
+
+## 新規投入ファイル数
+- PDF: 160件
+- Markdown: 0件
+- 合計: 160件
+
+## 移動PDF一覧
+- 00.references/cases/inbox/retio_hanrei_111-66.pdf -> 00.references/cases/originals/retio_hanrei_111-66.pdf
+- 00.references/cases/inbox/retio_hanrei_111-68.pdf -> 00.references/cases/originals/retio_hanrei_111-68.pdf
+- 00.references/cases/inbox/retio_hanrei_111-70.pdf -> 00.references/cases/originals/retio_hanrei_111-70.pdf
+- 00.references/cases/inbox/retio_hanrei_111-72.pdf -> 00.references/cases/originals/retio_hanrei_111-72.pdf
+- 00.references/cases/inbox/retio_hanrei_111-74.pdf -> 00.references/cases/originals/retio_hanrei_111-74.pdf
+- 00.references/cases/inbox/retio_hanrei_111-76.pdf -> 00.references/cases/originals/retio_hanrei_111-76.pdf
+- 00.references/cases/inbox/retio_hanrei_111-78.pdf -> 00.references/cases/originals/retio_hanrei_111-78.pdf
+- 00.references/cases/inbox/retio_hanrei_111-80.pdf -> 00.references/cases/originals/retio_hanrei_111-80.pdf
+- 00.references/cases/inbox/retio_hanrei_111-82.pdf -> 00.references/cases/originals/retio_hanrei_111-82.pdf
+- 00.references/cases/inbox/retio_hanrei_111-84.pdf -> 00.references/cases/originals/retio_hanrei_111-84.pdf
+- 00.references/cases/inbox/retio_hanrei_111-86.pdf -> 00.references/cases/originals/retio_hanrei_111-86.pdf
+- 00.references/cases/inbox/retio_hanrei_111-88.pdf -> 00.references/cases/originals/retio_hanrei_111-88.pdf
+- 00.references/cases/inbox/retio_hanrei_111-90.pdf -> 00.references/cases/originals/retio_hanrei_111-90.pdf
+- 00.references/cases/inbox/retio_hanrei_111-92.pdf -> 00.references/cases/originals/retio_hanrei_111-92.pdf
+- 00.references/cases/inbox/retio_hanrei_111-94.pdf -> 00.references/cases/originals/retio_hanrei_111-94.pdf
+- 00.references/cases/inbox/retio_hanrei_111-96.pdf -> 00.references/cases/originals/retio_hanrei_111-96.pdf
+- 00.references/cases/inbox/retio_hanrei_112-106.pdf -> 00.references/cases/originals/retio_hanrei_112-106.pdf
+- 00.references/cases/inbox/retio_hanrei_112-108.pdf -> 00.references/cases/originals/retio_hanrei_112-108.pdf
+- 00.references/cases/inbox/retio_hanrei_112-110.pdf -> 00.references/cases/originals/retio_hanrei_112-110.pdf
+- 00.references/cases/inbox/retio_hanrei_112-112.pdf -> 00.references/cases/originals/retio_hanrei_112-112.pdf
+- 00.references/cases/inbox/retio_hanrei_112-114.pdf -> 00.references/cases/originals/retio_hanrei_112-114.pdf
+- 00.references/cases/inbox/retio_hanrei_112-116.pdf -> 00.references/cases/originals/retio_hanrei_112-116.pdf
+- 00.references/cases/inbox/retio_hanrei_112-118.pdf -> 00.references/cases/originals/retio_hanrei_112-118.pdf
+- 00.references/cases/inbox/retio_hanrei_112-120.pdf -> 00.references/cases/originals/retio_hanrei_112-120.pdf
+- 00.references/cases/inbox/retio_hanrei_112-122.pdf -> 00.references/cases/originals/retio_hanrei_112-122.pdf
+- 00.references/cases/inbox/retio_hanrei_112-124.pdf -> 00.references/cases/originals/retio_hanrei_112-124.pdf
+- 00.references/cases/inbox/retio_hanrei_112-126.pdf -> 00.references/cases/originals/retio_hanrei_112-126.pdf
+- 00.references/cases/inbox/retio_hanrei_113-120.pdf -> 00.references/cases/originals/retio_hanrei_113-120.pdf
+- 00.references/cases/inbox/retio_hanrei_113-122.pdf -> 00.references/cases/originals/retio_hanrei_113-122.pdf
+- 00.references/cases/inbox/retio_hanrei_113-124.pdf -> 00.references/cases/originals/retio_hanrei_113-124.pdf
+- 00.references/cases/inbox/retio_hanrei_113-126.pdf -> 00.references/cases/originals/retio_hanrei_113-126.pdf
+- 00.references/cases/inbox/retio_hanrei_113-128.pdf -> 00.references/cases/originals/retio_hanrei_113-128.pdf
+- 00.references/cases/inbox/retio_hanrei_113-130.pdf -> 00.references/cases/originals/retio_hanrei_113-130.pdf
+- 00.references/cases/inbox/retio_hanrei_113-132.pdf -> 00.references/cases/originals/retio_hanrei_113-132.pdf
+- 00.references/cases/inbox/retio_hanrei_113-134.pdf -> 00.references/cases/originals/retio_hanrei_113-134.pdf
+- 00.references/cases/inbox/retio_hanrei_113-136.pdf -> 00.references/cases/originals/retio_hanrei_113-136.pdf
+- 00.references/cases/inbox/retio_hanrei_113-138.pdf -> 00.references/cases/originals/retio_hanrei_113-138.pdf
+- 00.references/cases/inbox/retio_hanrei_113-140.pdf -> 00.references/cases/originals/retio_hanrei_113-140.pdf
+- 00.references/cases/inbox/retio_hanrei_113-142.pdf -> 00.references/cases/originals/retio_hanrei_113-142.pdf
+- 00.references/cases/inbox/retio_hanrei_113-144.pdf -> 00.references/cases/originals/retio_hanrei_113-144.pdf
+- 00.references/cases/inbox/retio_hanrei_113-146.pdf -> 00.references/cases/originals/retio_hanrei_113-146.pdf
+- 00.references/cases/inbox/retio_hanrei_113-148.pdf -> 00.references/cases/originals/retio_hanrei_113-148.pdf
+- 00.references/cases/inbox/retio_hanrei_114-102.pdf -> 00.references/cases/originals/retio_hanrei_114-102.pdf
+- 00.references/cases/inbox/retio_hanrei_114-104.pdf -> 00.references/cases/originals/retio_hanrei_114-104.pdf
+- 00.references/cases/inbox/retio_hanrei_114-106.pdf -> 00.references/cases/originals/retio_hanrei_114-106.pdf
+- 00.references/cases/inbox/retio_hanrei_114-108.pdf -> 00.references/cases/originals/retio_hanrei_114-108.pdf
+- 00.references/cases/inbox/retio_hanrei_114-110.pdf -> 00.references/cases/originals/retio_hanrei_114-110.pdf
+- 00.references/cases/inbox/retio_hanrei_114-112.pdf -> 00.references/cases/originals/retio_hanrei_114-112.pdf
+- 00.references/cases/inbox/retio_hanrei_114-114.pdf -> 00.references/cases/originals/retio_hanrei_114-114.pdf
+- 00.references/cases/inbox/retio_hanrei_114-116.pdf -> 00.references/cases/originals/retio_hanrei_114-116.pdf
+- 00.references/cases/inbox/retio_hanrei_114-118.pdf -> 00.references/cases/originals/retio_hanrei_114-118.pdf
+- 00.references/cases/inbox/retio_hanrei_114-120.pdf -> 00.references/cases/originals/retio_hanrei_114-120.pdf
+- 00.references/cases/inbox/retio_hanrei_114-122.pdf -> 00.references/cases/originals/retio_hanrei_114-122.pdf
+- 00.references/cases/inbox/retio_hanrei_114-124.pdf -> 00.references/cases/originals/retio_hanrei_114-124.pdf
+- 00.references/cases/inbox/retio_hanrei_114-126.pdf -> 00.references/cases/originals/retio_hanrei_114-126.pdf
+- 00.references/cases/inbox/retio_hanrei_114-128.pdf -> 00.references/cases/originals/retio_hanrei_114-128.pdf
+- 00.references/cases/inbox/retio_hanrei_114-130.pdf -> 00.references/cases/originals/retio_hanrei_114-130.pdf
+- 00.references/cases/inbox/retio_hanrei_115-106.pdf -> 00.references/cases/originals/retio_hanrei_115-106.pdf
+- 00.references/cases/inbox/retio_hanrei_115-108.pdf -> 00.references/cases/originals/retio_hanrei_115-108.pdf
+- 00.references/cases/inbox/retio_hanrei_115-110.pdf -> 00.references/cases/originals/retio_hanrei_115-110.pdf
+- 00.references/cases/inbox/retio_hanrei_115-112.pdf -> 00.references/cases/originals/retio_hanrei_115-112.pdf
+- 00.references/cases/inbox/retio_hanrei_115-114.pdf -> 00.references/cases/originals/retio_hanrei_115-114.pdf
+- 00.references/cases/inbox/retio_hanrei_115-116.pdf -> 00.references/cases/originals/retio_hanrei_115-116.pdf
+- 00.references/cases/inbox/retio_hanrei_115-118.pdf -> 00.references/cases/originals/retio_hanrei_115-118.pdf
+- 00.references/cases/inbox/retio_hanrei_115-120.pdf -> 00.references/cases/originals/retio_hanrei_115-120.pdf
+- 00.references/cases/inbox/retio_hanrei_115-122.pdf -> 00.references/cases/originals/retio_hanrei_115-122.pdf
+- 00.references/cases/inbox/retio_hanrei_115-124.pdf -> 00.references/cases/originals/retio_hanrei_115-124.pdf
+- 00.references/cases/inbox/retio_hanrei_115-126.pdf -> 00.references/cases/originals/retio_hanrei_115-126.pdf
+- 00.references/cases/inbox/retio_hanrei_115-128.pdf -> 00.references/cases/originals/retio_hanrei_115-128.pdf
+- 00.references/cases/inbox/retio_hanrei_115-130.pdf -> 00.references/cases/originals/retio_hanrei_115-130.pdf
+- 00.references/cases/inbox/retio_hanrei_115-132.pdf -> 00.references/cases/originals/retio_hanrei_115-132.pdf
+- 00.references/cases/inbox/retio_hanrei_115-134.pdf -> 00.references/cases/originals/retio_hanrei_115-134.pdf
+- 00.references/cases/inbox/retio_hanrei_115-136.pdf -> 00.references/cases/originals/retio_hanrei_115-136.pdf
+- 00.references/cases/inbox/retio_hanrei_115-138.pdf -> 00.references/cases/originals/retio_hanrei_115-138.pdf
+- 00.references/cases/inbox/retio_hanrei_115-140.pdf -> 00.references/cases/originals/retio_hanrei_115-140.pdf
+- 00.references/cases/inbox/retio_hanrei_116-104.pdf -> 00.references/cases/originals/retio_hanrei_116-104.pdf
+- 00.references/cases/inbox/retio_hanrei_116-106.pdf -> 00.references/cases/originals/retio_hanrei_116-106.pdf
+- 00.references/cases/inbox/retio_hanrei_116-108.pdf -> 00.references/cases/originals/retio_hanrei_116-108.pdf
+- 00.references/cases/inbox/retio_hanrei_116-110.pdf -> 00.references/cases/originals/retio_hanrei_116-110.pdf
+- 00.references/cases/inbox/retio_hanrei_116-112.pdf -> 00.references/cases/originals/retio_hanrei_116-112.pdf
+- 00.references/cases/inbox/retio_hanrei_116-114.pdf -> 00.references/cases/originals/retio_hanrei_116-114.pdf
+- 00.references/cases/inbox/retio_hanrei_116-116.pdf -> 00.references/cases/originals/retio_hanrei_116-116.pdf
+- 00.references/cases/inbox/retio_hanrei_116-118.pdf -> 00.references/cases/originals/retio_hanrei_116-118.pdf
+- 00.references/cases/inbox/retio_hanrei_116-120.pdf -> 00.references/cases/originals/retio_hanrei_116-120.pdf
+- 00.references/cases/inbox/retio_hanrei_116-122.pdf -> 00.references/cases/originals/retio_hanrei_116-122.pdf
+- 00.references/cases/inbox/retio_hanrei_116-124.pdf -> 00.references/cases/originals/retio_hanrei_116-124.pdf
+- 00.references/cases/inbox/retio_hanrei_116-126.pdf -> 00.references/cases/originals/retio_hanrei_116-126.pdf
+- 00.references/cases/inbox/retio_hanrei_116-128.pdf -> 00.references/cases/originals/retio_hanrei_116-128.pdf
+- 00.references/cases/inbox/retio_hanrei_116-130.pdf -> 00.references/cases/originals/retio_hanrei_116-130.pdf
+- 00.references/cases/inbox/retio_hanrei_116-132.pdf -> 00.references/cases/originals/retio_hanrei_116-132.pdf
+- 00.references/cases/inbox/retio_hanrei_116-134.pdf -> 00.references/cases/originals/retio_hanrei_116-134.pdf
+- 00.references/cases/inbox/retio_hanrei_116-136.pdf -> 00.references/cases/originals/retio_hanrei_116-136.pdf
+- 00.references/cases/inbox/retio_hanrei_117-114.pdf -> 00.references/cases/originals/retio_hanrei_117-114.pdf
+- 00.references/cases/inbox/retio_hanrei_117-116.pdf -> 00.references/cases/originals/retio_hanrei_117-116.pdf
+- 00.references/cases/inbox/retio_hanrei_117-118.pdf -> 00.references/cases/originals/retio_hanrei_117-118.pdf
+- 00.references/cases/inbox/retio_hanrei_117-120.pdf -> 00.references/cases/originals/retio_hanrei_117-120.pdf
+- 00.references/cases/inbox/retio_hanrei_117-122.pdf -> 00.references/cases/originals/retio_hanrei_117-122.pdf
+- 00.references/cases/inbox/retio_hanrei_117-124.pdf -> 00.references/cases/originals/retio_hanrei_117-124.pdf
+- 00.references/cases/inbox/retio_hanrei_117-126.pdf -> 00.references/cases/originals/retio_hanrei_117-126.pdf
+- 00.references/cases/inbox/retio_hanrei_117-128.pdf -> 00.references/cases/originals/retio_hanrei_117-128.pdf
+- 00.references/cases/inbox/retio_hanrei_117-130.pdf -> 00.references/cases/originals/retio_hanrei_117-130.pdf
+- 00.references/cases/inbox/retio_hanrei_117-132.pdf -> 00.references/cases/originals/retio_hanrei_117-132.pdf
+- 00.references/cases/inbox/retio_hanrei_117-134.pdf -> 00.references/cases/originals/retio_hanrei_117-134.pdf
+- 00.references/cases/inbox/retio_hanrei_117-136.pdf -> 00.references/cases/originals/retio_hanrei_117-136.pdf
+- 00.references/cases/inbox/retio_hanrei_117-138.pdf -> 00.references/cases/originals/retio_hanrei_117-138.pdf
+- 00.references/cases/inbox/retio_hanrei_117-140.pdf -> 00.references/cases/originals/retio_hanrei_117-140.pdf
+- 00.references/cases/inbox/retio_hanrei_117-142.pdf -> 00.references/cases/originals/retio_hanrei_117-142.pdf
+- 00.references/cases/inbox/retio_hanrei_117-144.pdf -> 00.references/cases/originals/retio_hanrei_117-144.pdf
+- 00.references/cases/inbox/retio_hanrei_118-100.pdf -> 00.references/cases/originals/retio_hanrei_118-100.pdf
+- 00.references/cases/inbox/retio_hanrei_118-102.pdf -> 00.references/cases/originals/retio_hanrei_118-102.pdf
+- 00.references/cases/inbox/retio_hanrei_118-104.pdf -> 00.references/cases/originals/retio_hanrei_118-104.pdf
+- 00.references/cases/inbox/retio_hanrei_118-106.pdf -> 00.references/cases/originals/retio_hanrei_118-106.pdf
+- 00.references/cases/inbox/retio_hanrei_118-108.pdf -> 00.references/cases/originals/retio_hanrei_118-108.pdf
+- 00.references/cases/inbox/retio_hanrei_118-110.pdf -> 00.references/cases/originals/retio_hanrei_118-110.pdf
+- 00.references/cases/inbox/retio_hanrei_118-112.pdf -> 00.references/cases/originals/retio_hanrei_118-112.pdf
+- 00.references/cases/inbox/retio_hanrei_118-114.pdf -> 00.references/cases/originals/retio_hanrei_118-114.pdf
+- 00.references/cases/inbox/retio_hanrei_118-116.pdf -> 00.references/cases/originals/retio_hanrei_118-116.pdf
+- 00.references/cases/inbox/retio_hanrei_118-118.pdf -> 00.references/cases/originals/retio_hanrei_118-118.pdf
+- 00.references/cases/inbox/retio_hanrei_118-120.pdf -> 00.references/cases/originals/retio_hanrei_118-120.pdf
+- 00.references/cases/inbox/retio_hanrei_118-122.pdf -> 00.references/cases/originals/retio_hanrei_118-122.pdf
+- 00.references/cases/inbox/retio_hanrei_118-124.pdf -> 00.references/cases/originals/retio_hanrei_118-124.pdf
+- 00.references/cases/inbox/retio_hanrei_118-126.pdf -> 00.references/cases/originals/retio_hanrei_118-126.pdf
+- 00.references/cases/inbox/retio_hanrei_118-128.pdf -> 00.references/cases/originals/retio_hanrei_118-128.pdf
+- 00.references/cases/inbox/retio_hanrei_118-130.pdf -> 00.references/cases/originals/retio_hanrei_118-130.pdf
+- 00.references/cases/inbox/retio_hanrei_119-126.pdf -> 00.references/cases/originals/retio_hanrei_119-126.pdf
+- 00.references/cases/inbox/retio_hanrei_119-128.pdf -> 00.references/cases/originals/retio_hanrei_119-128.pdf
+- 00.references/cases/inbox/retio_hanrei_119-130.pdf -> 00.references/cases/originals/retio_hanrei_119-130.pdf
+- 00.references/cases/inbox/retio_hanrei_119-132.pdf -> 00.references/cases/originals/retio_hanrei_119-132.pdf
+- 00.references/cases/inbox/retio_hanrei_119-134.pdf -> 00.references/cases/originals/retio_hanrei_119-134.pdf
+- 00.references/cases/inbox/retio_hanrei_119-136.pdf -> 00.references/cases/originals/retio_hanrei_119-136.pdf
+- 00.references/cases/inbox/retio_hanrei_119-138.pdf -> 00.references/cases/originals/retio_hanrei_119-138.pdf
+- 00.references/cases/inbox/retio_hanrei_119-140.pdf -> 00.references/cases/originals/retio_hanrei_119-140.pdf
+- 00.references/cases/inbox/retio_hanrei_119-142.pdf -> 00.references/cases/originals/retio_hanrei_119-142.pdf
+- 00.references/cases/inbox/retio_hanrei_119-144.pdf -> 00.references/cases/originals/retio_hanrei_119-144.pdf
+- 00.references/cases/inbox/retio_hanrei_119-146.pdf -> 00.references/cases/originals/retio_hanrei_119-146.pdf
+- 00.references/cases/inbox/retio_hanrei_119-148.pdf -> 00.references/cases/originals/retio_hanrei_119-148.pdf
+- 00.references/cases/inbox/retio_hanrei_119-150.pdf -> 00.references/cases/originals/retio_hanrei_119-150.pdf
+- 00.references/cases/inbox/retio_hanrei_119-152.pdf -> 00.references/cases/originals/retio_hanrei_119-152.pdf
+- 00.references/cases/inbox/retio_hanrei_119-154.pdf -> 00.references/cases/originals/retio_hanrei_119-154.pdf
+- 00.references/cases/inbox/retio_hanrei_119-156.pdf -> 00.references/cases/originals/retio_hanrei_119-156.pdf
+- 00.references/cases/inbox/retio_hanrei_119-158.pdf -> 00.references/cases/originals/retio_hanrei_119-158.pdf
+- 00.references/cases/inbox/retio_hanrei_119-160.pdf -> 00.references/cases/originals/retio_hanrei_119-160.pdf
+
+## 生成Markdown一覧
+- raw: `00.references/cases/markdown/raw/2015-12-03.baibai.仮契約締結後に協議が続けられることを定め仮契約締結時に支払った交付金につき、売買契約.md`
+- cleaned: `00.references/cases/markdown/cleaned/2015-12-03.baibai.仮契約締結後に協議が続けられることを定め仮契約締結時に支払った交付金につき、売買契約.md`
+- raw: `00.references/cases/markdown/raw/2017-09-29.kokuchi.所有権を失う可能性が高いことの説明がなかったとした、買主の元売主等に対する賠償請求が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-29.kokuchi.所有権を失う可能性が高いことの説明がなかったとした、買主の元売主等に対する賠償請求が.md`
+- raw: `00.references/cases/markdown/raw/2017-10-20.kokuchi.買主が主張する地中の転石の存在は、売主業者はその存在可能性について説明していたとして.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-10-20.kokuchi.買主が主張する地中の転石の存在は、売主業者はその存在可能性について説明していたとして.md`
+- raw: `00.references/cases/markdown/raw/2017-10-03.baibai.土地を更地渡し条件で購入した買主が、地中に残置されていた地下室の撤去費用支払いを売主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-10-03.baibai.土地を更地渡し条件で購入した買主が、地中に残置されていた地下室の撤去費用支払いを売主.md`
+- raw: `00.references/cases/markdown/raw/2017-09-12.kokuchi.(5)−擁壁の瑕疵の説明義務−最近の判例から擁壁のひび等の隠れた瑕疵について、説明義.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-12.kokuchi.(5)−擁壁の瑕疵の説明義務−最近の判例から擁壁のひび等の隠れた瑕疵について、説明義.md`
+- raw: `00.references/cases/markdown/raw/2017-02-07.kokuchi.の発生可能性について、仲介業者等が情報を過去の浸水事故の調査説明義務違反があったとし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-02-07.kokuchi.の発生可能性について、仲介業者等が情報を過去の浸水事故の調査説明義務違反があったとし.md`
+- raw: `00.references/cases/markdown/raw/2016-12-08.chintai.集中豪雨の際に建物の浸水被害が生じ得ることを買主は認識しており隠れた瑕疵に当たらない.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-12-08.chintai.集中豪雨の際に建物の浸水被害が生じ得ることを買主は認識しており隠れた瑕疵に当たらない.md`
+- raw: `00.references/cases/markdown/raw/2017-01-16.kokuchi.下り天井があることの説明義務を怠ったと主張する新築マンション購入者による分譲業者に対.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-01-16.kokuchi.下り天井があることの説明義務を怠ったと主張する新築マンション購入者による分譲業者に対.md`
+- raw: `00.references/cases/markdown/raw/2017-05-30.chintai.賃貸人の違約により建物賃貸借予約契約を解除したとする賃借人による予約金返還及び違約金.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-05-30.chintai.賃貸人の違約により建物賃貸借予約契約を解除したとする賃借人による予約金返還及び違約金.md`
+- raw: `00.references/cases/markdown/raw/2016-01-21.chintai.賃貸借契約書への調印を契約直前に断わられた借主の、契約成立・貸主の契約締結義務違反の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-01-21.chintai.賃貸借契約書への調印を契約直前に断わられた借主の、契約成立・貸主の契約締結義務違反の.md`
+- raw: `00.references/cases/markdown/raw/2017-09-22.chintai.集中方式による給湯がされない不備について、水道代給湯代の8割相当額をアパート賃借人の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-22.chintai.集中方式による給湯がされない不備について、水道代給湯代の8割相当額をアパート賃借人の.md`
+- raw: `00.references/cases/markdown/raw/2014-10-30.chintai.保証会社が代位弁済した滞納家賃と原状回復費につき、賃借人への請求が認められた事例.md`
+- cleaned: `00.references/cases/markdown/cleaned/2014-10-30.chintai.保証会社が代位弁済した滞納家賃と原状回復費につき、賃借人への請求が認められた事例.md`
+- raw: `00.references/cases/markdown/raw/2016-12-27.kanri.支払済み電気料金について管理会社による請求が過大であったとする区分所有者による過払金.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-12-27.kanri.支払済み電気料金について管理会社による請求が過大であったとする区分所有者による過払金.md`
+- raw: `00.references/cases/markdown/raw/2017-11-28.chintai.貸室内での嘱託殺人が疑われる事件の発生により、心理的瑕疵が生じたとして、賃料の10年.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-28.chintai.貸室内での嘱託殺人が疑われる事件の発生により、心理的瑕疵が生じたとして、賃料の10年.md`
+- raw: `00.references/cases/markdown/raw/2017-03-31.kanri.マンション新築工事の外壁及び玄関庇への石材取付工事について建築業者の不法行為責任が認.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-03-31.kanri.マンション新築工事の外壁及び玄関庇への石材取付工事について建築業者の不法行為責任が認.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.misc.土地の固定資産の登録価格決定にあたり、容積利用権の譲渡事実は減価要因として考慮すべき.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.misc.土地の固定資産の登録価格決定にあたり、容積利用権の譲渡事実は減価要因として考慮すべき.md`
+- raw: `00.references/cases/markdown/raw/2016-08-30.chintai.少なくとも建築できることを前提として本件売主提示の建築参考図面通りの建物建築ができな.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-08-30.chintai.少なくとも建築できることを前提として本件売主提示の建築参考図面通りの建物建築ができな.md`
+- raw: `00.references/cases/markdown/raw/2018-07-11.chintai.窓先空地規制により駐車場利用ができないことの説明をしなかった売主業者の不法行為責任が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-07-11.chintai.窓先空地規制により駐車場利用ができないことの説明をしなかった売主業者の不法行為責任が.md`
+- raw: `00.references/cases/markdown/raw/2017-11-15.chintai.雨漏り修理の内容等について、誤信させる説明を行ったとした買主の媒介業者に対する賠償請.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-15.chintai.雨漏り修理の内容等について、誤信させる説明を行ったとした買主の媒介業者に対する賠償請.md`
+- raw: `00.references/cases/markdown/raw/2018-01-31.kokuchi.代金を引き上げざるを得なくなった、暴言を吐いた、などとして損害賠償を請求した事案にお.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-01-31.kokuchi.代金を引き上げざるを得なくなった、暴言を吐いた、などとして損害賠償を請求した事案にお.md`
+- raw: `00.references/cases/markdown/raw/2016-08-30.kanri.(5)−管理組合の財務状況の説明義務−最近の判例から管理組合の財務状況を説明しなかっ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-08-30.kanri.(5)−管理組合の財務状況の説明義務−最近の判例から管理組合の財務状況を説明しなかっ.md`
+- raw: `00.references/cases/markdown/raw/2018-01-19.chintai.うべき保証委託料を受領する権限がないのに媒介業者の瑕疵ある媒介によって損害を被ったと.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-01-19.chintai.うべき保証委託料を受領する権限がないのに媒介業者の瑕疵ある媒介によって損害を被ったと.md`
+- raw: `00.references/cases/markdown/raw/2017-11-15.chintai.媒介業者を排除して直接取引にて売買契約を締結した売主に対して媒介報酬全額の支払が命じ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-15.chintai.媒介業者を排除して直接取引にて売買契約を締結した売主に対して媒介報酬全額の支払が命じ.md`
+- raw: `00.references/cases/markdown/raw/2016-12-02.chintai.賃借人による共用部分の電源の無断使用等が悪質行為であるとして、賃貸借契約の解除が認め.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-12-02.chintai.賃借人による共用部分の電源の無断使用等が悪質行為であるとして、賃貸借契約の解除が認め.md`
+- raw: `00.references/cases/markdown/raw/2017-12-13.chintai.心理的瑕疵による土地建物減価をもって貸室内の自殺事故と相当因果関係が認められる損害と.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-13.chintai.心理的瑕疵による土地建物減価をもって貸室内の自殺事故と相当因果関係が認められる損害と.md`
+- raw: `00.references/cases/markdown/raw/2017-04-25.chintai.賃貸借契約書の約定による通常損耗を借主負担とする特約が有効に成立していないとして、効.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-04-25.chintai.賃貸借契約書の約定による通常損耗を借主負担とする特約が有効に成立していないとして、効.md`
+- raw: `00.references/cases/markdown/raw/2017-02-06.chintai.賠償請求等が認容されたため、貸主が控訴した事案において、ペット特約の有効性と、貸主に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-02-06.chintai.賠償請求等が認容されたため、貸主が控訴した事案において、ペット特約の有効性と、貸主に.md`
+- raw: `00.references/cases/markdown/raw/2016-01-22.chintai.とを検討していることを、Bが明確に把握で売買契約締結に際し不実の告知などがあったとし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-01-22.chintai.とを検討していることを、Bが明確に把握で売買契約締結に際し不実の告知などがあったとし.md`
+- raw: `00.references/cases/markdown/raw/2016-08-23.chintai.過去の雨漏りを秘匿しビルを購入させたとした買主の売主及び媒介業者に対する損害賠償請求.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-08-23.chintai.過去の雨漏りを秘匿しビルを購入させたとした買主の売主及び媒介業者に対する損害賠償請求.md`
+- raw: `00.references/cases/markdown/raw/2017-05-19.kokuchi.購入土地に土壌汚染が判明したとする買主からの浄化費用等の支払請求が瑕疵担保免責特約に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-05-19.kokuchi.購入土地に土壌汚染が判明したとする買主からの浄化費用等の支払請求が瑕疵担保免責特約に.md`
+- raw: `00.references/cases/markdown/raw/2017-12-07.kokuchi.店舗付共同住宅の買主からの売主や媒介業者による接道や越境の状況についての誤った説明に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-07.kokuchi.店舗付共同住宅の買主からの売主や媒介業者による接道や越境の状況についての誤った説明に.md`
+- raw: `00.references/cases/markdown/raw/2017-11-08.chintai.(5)−用途変更不可の説明義務−最近の判例から用途変更ができないことを説明すべき義務.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-08.chintai.(5)−用途変更不可の説明義務−最近の判例から用途変更ができないことを説明すべき義務.md`
+- raw: `00.references/cases/markdown/raw/2016-08-30.kanri.定したが、組合運営に対立が生じ、同年9月、物件に瑕疵が存する、重要事項説明に不備があ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-08-30.kanri.定したが、組合運営に対立が生じ、同年9月、物件に瑕疵が存する、重要事項説明に不備があ.md`
+- raw: `00.references/cases/markdown/raw/2015-03-26.chintai.て、買主と媒介業者との間で報酬額について定めのない黙示の媒介契約が成立していたとして.md`
+- cleaned: `00.references/cases/markdown/cleaned/2015-03-26.chintai.て、買主と媒介業者との間で報酬額について定めのない黙示の媒介契約が成立していたとして.md`
+- raw: `00.references/cases/markdown/raw/2017-12-19.chintai.記吸収分割がされたことを理由に上記定めに基づく違約金債権に係る債務を負わないと主張す.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-19.chintai.記吸収分割がされたことを理由に上記定めに基づく違約金債権に係る債務を負わないと主張す.md`
+- raw: `00.references/cases/markdown/raw/2017-04-11.chintai.契約書に署名押印したが鍵の引渡しを受けていないこと等をもって賃貸借契約が成立していな.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-04-11.chintai.契約書に署名押印したが鍵の引渡しを受けていないこと等をもって賃貸借契約が成立していな.md`
+- raw: `00.references/cases/markdown/raw/2017-11-27.chintai.実損がないため請求は棄却されたが、条例の内容を説明しないことは、宅建業者の注意義務違.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-27.chintai.実損がないため請求は棄却されたが、条例の内容を説明しないことは、宅建業者の注意義務違.md`
+- raw: `00.references/cases/markdown/raw/2016-08-19.chintai.築40年超のアパートに賃借人が12年間居住した場合における原状回復費用算定の一事例.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-08-19.chintai.築40年超のアパートに賃借人が12年間居住した場合における原状回復費用算定の一事例.md`
+- raw: `00.references/cases/markdown/raw/2016-06-28.chintai.案において、タバコのヤニ汚れや壁の穴など賃借人の故意過失による損耗が大部分であるとし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-06-28.chintai.案において、タバコのヤニ汚れや壁の穴など賃借人の故意過失による損耗が大部分であるとし.md`
+- raw: `00.references/cases/markdown/raw/2017-09-20.kanri.マンションの未払い管理費及び修繕積立金等の支払いと、管理組合による共用部分の修繕の間.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-20.kanri.マンションの未払い管理費及び修繕積立金等の支払いと、管理組合による共用部分の修繕の間.md`
+- raw: `00.references/cases/markdown/raw/2018-08-09.kanri.管理規約で禁止されている民泊行為をした区分所有者への民泊行為の差止めと違約金の請求が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-08-09.kanri.管理規約で禁止されている民泊行為をした区分所有者への民泊行為の差止めと違約金の請求が.md`
+- raw: `00.references/cases/markdown/raw/2017-05-31.chintai.スナックのカラオケ騒音に対する度重なる苦情申入れが営業妨害行為には当たらないとされた.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-05-31.chintai.スナックのカラオケ騒音に対する度重なる苦情申入れが営業妨害行為には当たらないとされた.md`
+- raw: `00.references/cases/markdown/raw/2018-03-29.kokuchi.下室が存在し、大量のコンクリートガラ等が建物建築の障害となる地中障害物について、売主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-29.kokuchi.下室が存在し、大量のコンクリートガラ等が建物建築の障害となる地中障害物について、売主.md`
+- raw: `00.references/cases/markdown/raw/2018-02-23.kokuchi.いて、売主は土壌汚染を完全に除去する義務を負っているとは認められないとして、買主の請.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-02-23.kokuchi.いて、売主は土壌汚染を完全に除去する義務を負っているとは認められないとして、買主の請.md`
+- raw: `00.references/cases/markdown/raw/2017-12-25.kokuchi.騒音等について虚偽の説明をしたとして買主が求めた売主及び媒介業者に対する損害賠償請求.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-25.kokuchi.騒音等について虚偽の説明をしたとして買主が求めた売主及び媒介業者に対する損害賠償請求.md`
+- raw: `00.references/cases/markdown/raw/2017-07-18.kokuchi.買主業者には売主が抵当権抹消できるかどうかを確認する義務があるとした売主の主張が採用.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-07-18.kokuchi.買主業者には売主が抵当権抹消できるかどうかを確認する義務があるとした売主の主張が採用.md`
+- raw: `00.references/cases/markdown/raw/2017-11-20.baibai.案において、売主と代表者及びその従業員に対する請求がほぼ認められ、媒介業者及びその代.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-20.baibai.案において、売主と代表者及びその従業員に対する請求がほぼ認められ、媒介業者及びその代.md`
+- raw: `00.references/cases/markdown/raw/2017-03-28.baibai.宅建業者の名義を借りておこなわれた原野商法詐欺による損害について、名義貸しをした宅建.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-03-28.baibai.宅建業者の名義を借りておこなわれた原野商法詐欺による損害について、名義貸しをした宅建.md`
+- raw: `00.references/cases/markdown/raw/2017-09-22.kokuchi.損害を被らせることを予見する義務があり、名義の使用承諾は宅建業者の詐欺行為の幇助にあ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-09-22.kokuchi.損害を被らせることを予見する義務があり、名義の使用承諾は宅建業者の詐欺行為の幇助にあ.md`
+- raw: `00.references/cases/markdown/raw/2018-01-30.chintai.(8)−未払賃料等と賃貸人の地位移転−最近の判例から建物を譲り受けた建物賃貸人による.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-01-30.chintai.(8)−未払賃料等と賃貸人の地位移転−最近の判例から建物を譲り受けた建物賃貸人による.md`
+- raw: `00.references/cases/markdown/raw/2018-01-25.chintai.雨漏りを理由とした借主の賃料不払等の行為により、賃貸借契約の基礎となる信頼関係は破壊.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-01-25.chintai.雨漏りを理由とした借主の賃料不払等の行為により、賃貸借契約の基礎となる信頼関係は破壊.md`
+- raw: `00.references/cases/markdown/raw/2018-04-05.chintai.借主が貸室内の補修工事への協力を行わないことについて、借主に信頼関係の破壊があるとし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-04-05.chintai.借主が貸室内の補修工事への協力を行わないことについて、借主に信頼関係の破壊があるとし.md`
+- raw: `00.references/cases/markdown/raw/2017-05-22.chintai.特約の補修義務違反を理由とする借主の損害賠償請求につき、使用が妨げられた賃料相当額の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-05-22.chintai.特約の補修義務違反を理由とする借主の損害賠償請求につき、使用が妨げられた賃料相当額の.md`
+- raw: `00.references/cases/markdown/raw/2017-03-23.chintai.借主からの鍵の交換請求について、貸主に交換義務はないとされた事例.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-03-23.chintai.借主からの鍵の交換請求について、貸主に交換義務はないとされた事例.md`
+- raw: `00.references/cases/markdown/raw/2017-12-08.chintai.原状回復工事を実施せずに第三者に賃貸したことが貸主の不当利得にあたるとした借主の訴え.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-08.chintai.原状回復工事を実施せずに第三者に賃貸したことが貸主の不当利得にあたるとした借主の訴え.md`
+- raw: `00.references/cases/markdown/raw/2019-03-05.kanri.(14)−マンション管理−.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-03-05.kanri.(14)−マンション管理−.md`
+- raw: `00.references/cases/markdown/raw/2018-03-02.kanri.ペット管理を適切に行わない区分所有者に対するマンション管理組合の区分所有部分の競売請.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-02.kanri.ペット管理を適切に行わない区分所有者に対するマンション管理組合の区分所有部分の競売請.md`
+- raw: `00.references/cases/markdown/raw/2018-07-04.chintai.借地権付建物の売買契約の特約において、売主が地主に金融機関に対する融資承諾書面の発行.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-07-04.chintai.借地権付建物の売買契約の特約において、売主が地主に金融機関に対する融資承諾書面の発行.md`
+- raw: `00.references/cases/markdown/raw/2019-01-11.chintai.(2)−投資用物件の違約解除−投資用マンションの売主が買主に請求した代金の20%相当.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-11.chintai.(2)−投資用物件の違約解除−投資用マンションの売主が買主に請求した代金の20%相当.md`
+- raw: `00.references/cases/markdown/raw/2016-11-25.chintai.(3)−土壌汚染−売主に対する瑕疵担保特約に基づく自然由来の汚染土壌除去費用の請求が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-11-25.chintai.(3)−土壌汚染−売主に対する瑕疵担保特約に基づく自然由来の汚染土壌除去費用の請求が.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.kokuchi.retio_hanrei_115-112.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.kokuchi.retio_hanrei_115-112.md`
+- raw: `00.references/cases/markdown/raw/2018-07-09.chintai.(5)−建物の瑕疵−雨漏り・給湯設備の瑕疵を理由とした、買主の売主に対する原状回復費.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-07-09.chintai.(5)−建物の瑕疵−雨漏り・給湯設備の瑕疵を理由とした、買主の売主に対する原状回復費.md`
+- raw: `00.references/cases/markdown/raw/2018-07-20.kokuchi.と、本契約の売買代金のうち本件建物の売買築後50年以上経過したリノベーション建物の瑕.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-07-20.kokuchi.と、本契約の売買代金のうち本件建物の売買築後50年以上経過したリノベーション建物の瑕.md`
+- raw: `00.references/cases/markdown/raw/2018-09-26.kokuchi.(1)Xは、本件建物の建替えが不可能である擁壁と建物の基礎等が一体のため建替えが不可.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-09-26.kokuchi.(1)Xは、本件建物の建替えが不可能である擁壁と建物の基礎等が一体のため建替えが不可.md`
+- raw: `00.references/cases/markdown/raw/2018-03-27.chintai.はないなどと反論した。賃借人の退去を前提とする土地・建物の売買契約において、媒介業者.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-27.chintai.はないなどと反論した。賃借人の退去を前提とする土地・建物の売買契約において、媒介業者.md`
+- raw: `00.references/cases/markdown/raw/2017-02-22.chintai.て買主の請求が棄却され、売主が買主の債務不履行により契約を解除したとして違約金の支払.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-02-22.chintai.て買主の請求が棄却され、売主が買主の債務不履行により契約を解除したとして違約金の支払.md`
+- raw: `00.references/cases/markdown/raw/2018-09-21.chintai.(10)−重説義務違反と損害賠償請求−建築基準法に違反する建物であったことの説明をし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-09-21.chintai.(10)−重説義務違反と損害賠償請求−建築基準法に違反する建物であったことの説明をし.md`
+- raw: `00.references/cases/markdown/raw/2018-03-29.kokuchi.(11)−地面師事件−売主に成りすました者に手付金を詐取された買主が、媒介業者に損害.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-29.kokuchi.(11)−地面師事件−売主に成りすました者に手付金を詐取された買主が、媒介業者に損害.md`
+- raw: `00.references/cases/markdown/raw/2019-02-15.baibai.(12)−代表者の名義貸し−原野商法を行った会社の代表者として、名義を貸した者に対す.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-02-15.baibai.(12)−代表者の名義貸し−原野商法を行った会社の代表者として、名義を貸した者に対す.md`
+- raw: `00.references/cases/markdown/raw/2018-10-31.chintai.(13)−契約締結上の過失−賃借申込人が契約締結直前に一方的に交渉を破棄したことによ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-10-31.chintai.(13)−契約締結上の過失−賃借申込人が契約締結直前に一方的に交渉を破棄したことによ.md`
+- raw: `00.references/cases/markdown/raw/2017-07-20.chintai.(14)−大規模修繕の説明義務−大規模修繕工事の説明がなかったとして賃料支払いを拒む.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-07-20.chintai.(14)−大規模修繕の説明義務−大規模修繕工事の説明がなかったとして賃料支払いを拒む.md`
+- raw: `00.references/cases/markdown/raw/2018-06-05.chintai.(15)−賃貸保証委託契約−借主による保証委託契約の解除等が信頼関係の破壊にあたると.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-06-05.chintai.(15)−賃貸保証委託契約−借主による保証委託契約の解除等が信頼関係の破壊にあたると.md`
+- raw: `00.references/cases/markdown/raw/2018-02-16.chintai.(16)−結露に対する賃貸人の対応−窓の結露発生への不十分な対応を理由とする、賃借人.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-02-16.chintai.(16)−結露に対する賃貸人の対応−窓の結露発生への不十分な対応を理由とする、賃借人.md`
+- raw: `00.references/cases/markdown/raw/2017-12-21.misc.(17)−セットバック−隣接地を売却した元所有者に対し、セットバックする旨の合意があ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-21.misc.(17)−セットバック−隣接地を売却した元所有者に対し、セットバックする旨の合意があ.md`
+- raw: `00.references/cases/markdown/raw/2017-12-01.kanri.(18)−迷惑行為−分譲マンションの階下住人の迷惑行為に対する損害賠償請求が一部認容.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-12-01.kanri.(18)−迷惑行為−分譲マンションの階下住人の迷惑行為に対する損害賠償請求が一部認容.md`
+- raw: `00.references/cases/markdown/raw/2019-01-09.baibai.な融資の承認を得たというべきであるから、事前審査の承認は得られたが、正式な承認が得ら.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-09.baibai.な融資の承認を得たというべきであるから、事前審査の承認は得られたが、正式な承認が得ら.md`
+- raw: `00.references/cases/markdown/raw/2016-04-13.chintai.本件特約条項は、これを破棄するというの瑕疵担保責任に関する条文を破棄するとした特約は.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-04-13.chintai.本件特約条項は、これを破棄するというの瑕疵担保責任に関する条文を破棄するとした特約は.md`
+- raw: `00.references/cases/markdown/raw/2018-09-18.chintai.27年6月にa保健所、及び同年7月にa区役買主は土壌汚染の可能性を認識していたとして.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-09-18.chintai.27年6月にa保健所、及び同年7月にa区役買主は土壌汚染の可能性を認識していたとして.md`
+- raw: `00.references/cases/markdown/raw/2018-09-27.kokuchi.(1)Xは、本件土地について、セットバック既存擁壁につき誤った説明を行った媒介業者に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-09-27.kokuchi.(1)Xは、本件土地について、セットバック既存擁壁につき誤った説明を行った媒介業者に.md`
+- raw: `00.references/cases/markdown/raw/2018-02-16.kokuchi.したことを認めるに足りる確たる証拠はな買主が売主に対して、既存杭の位置を告知しなかっ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-02-16.kokuchi.したことを認めるに足りる確たる証拠はな買主が売主に対して、既存杭の位置を告知しなかっ.md`
+- raw: `00.references/cases/markdown/raw/2018-10-24.chintai.する請求を一部認容した。投資物件の買主が募集家賃を実際家賃と誤認したことについて媒介.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-10-24.chintai.する請求を一部認容した。投資物件の買主が募集家賃を実際家賃と誤認したことについて媒介.md`
+- raw: `00.references/cases/markdown/raw/2018-03-28.chintai.違反する債務不履行、不法行為に基づき損害売買契約を手付解除した買主の短期転売できると.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-28.chintai.違反する債務不履行、不法行為に基づき損害売買契約を手付解除した買主の短期転売できると.md`
+- raw: `00.references/cases/markdown/raw/2018-02-28.kokuchi.のであり、それ以前に上記引渡期日までに修売買建物にエレベーターの不具合がある等として.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-02-28.kokuchi.のであり、それ以前に上記引渡期日までに修売買建物にエレベーターの不具合がある等として.md`
+- raw: `00.references/cases/markdown/raw/2018-05-25.chintai.件売買価格が著しく低廉であるのに対し、売高齢者が自宅マンションを著しく低額で売却させ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-05-25.chintai.件売買価格が著しく低廉であるのに対し、売高齢者が自宅マンションを著しく低額で売却させ.md`
+- raw: `00.references/cases/markdown/raw/2018-12-04.kokuchi.の、宅地造成等規制法上の制限によって土地売主の欺罔行為により、家庭菜園目的の土地の売.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-12-04.kokuchi.の、宅地造成等規制法上の制限によって土地売主の欺罔行為により、家庭菜園目的の土地の売.md`
+- raw: `00.references/cases/markdown/raw/2018-07-11.chintai.行不能)に基づき支払済賃料・保証金、媒介賃借した建物が飲食店として使用できなかったこ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-07-11.chintai.行不能)に基づき支払済賃料・保証金、媒介賃借した建物が飲食店として使用できなかったこ.md`
+- raw: `00.references/cases/markdown/raw/2018-03-06.chintai.さらに、YがXに交付した本件契約書及び貸室内で店舗営業ができないことを説明しなかった.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-06.chintai.さらに、YがXに交付した本件契約書及び貸室内で店舗営業ができないことを説明しなかった.md`
+- raw: `00.references/cases/markdown/raw/2018-10-30.chintai.Xは、Aとの敷金返還請求等訴訟において、媒介業者には賃貸借契約に違約金条項を盛り込む.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-10-30.chintai.Xは、Aとの敷金返還請求等訴訟において、媒介業者には賃貸借契約に違約金条項を盛り込む.md`
+- raw: `00.references/cases/markdown/raw/2017-04-14.chintai.であったと主張するが、賃貸借契約は、平成賃借人の薬の多量服用による死亡につき、賃貸人.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-04-14.chintai.であったと主張するが、賃貸借契約は、平成賃借人の薬の多量服用による死亡につき、賃貸人.md`
+- raw: `00.references/cases/markdown/raw/2019-03-14.chintai.で具体的な部分は、「襖・障子の張り替え、通常損耗の原状回復、10年以上前に発生した殺.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-03-14.chintai.で具体的な部分は、「襖・障子の張り替え、通常損耗の原状回復、10年以上前に発生した殺.md`
+- raw: `00.references/cases/markdown/raw/2018-08-08.chintai.おいて本件貸室の返還時には当該店舗の内装契約書では明確でない居抜き物件の原状回復義務.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-08-08.chintai.おいて本件貸室の返還時には当該店舗の内装契約書では明確でない居抜き物件の原状回復義務.md`
+- raw: `00.references/cases/markdown/raw/2017-08-23.chintai.同契約を締結したことが認められるが、Xと借主の法人名義から個人名義への切替えを貸主が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-08-23.chintai.同契約を締結したことが認められるが、Xと借主の法人名義から個人名義への切替えを貸主が.md`
+- raw: `00.references/cases/markdown/raw/2018-03-15.chintai.B社は、Yに対して内入充当金と完済充当売買金額が著しく廉価であり当初の売買契約が無効.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-15.chintai.B社は、Yに対して内入充当金と完済充当売買金額が著しく廉価であり当初の売買契約が無効.md`
+- raw: `00.references/cases/markdown/raw/2016-10-11.baibai.者であるXが自ら売主となってYに宅地を売売主が宅建業者である場合の手附解除期限特約は.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-10-11.baibai.者であるXが自ら売主となってYに宅地を売売主が宅建業者である場合の手附解除期限特約は.md`
+- raw: `00.references/cases/markdown/raw/2018-03-13.baibai.わなかった。Xは、Yに対し、同年12月20日埋設管を撤去しなかったとして決済に応じな.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-13.baibai.わなかった。Xは、Yに対し、同年12月20日埋設管を撤去しなかったとして決済に応じな.md`
+- raw: `00.references/cases/markdown/raw/2018-12-20.kokuchi.属書類として添付していたことから、YがX売主が交付した私道通行掘削承諾書が買主宛てで.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-12-20.kokuchi.属書類として添付していたことから、YがX売主が交付した私道通行掘削承諾書が買主宛てで.md`
+- raw: `00.references/cases/markdown/raw/2017-03-24.kokuchi.により、周辺で発生した地盤沈下に対処する適切な地盤改良又は基礎選定が行われず不同沈下.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-03-24.kokuchi.により、周辺で発生した地盤沈下に対処する適切な地盤改良又は基礎選定が行われず不同沈下.md`
+- raw: `00.references/cases/markdown/raw/2016-01-20.chintai.中古賃貸マンションの売買において、床の腐食等を隠れた瑕疵と認め、自転車置場の支柱の腐.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-01-20.chintai.中古賃貸マンションの売買において、床の腐食等を隠れた瑕疵と認め、自転車置場の支柱の腐.md`
+- raw: `00.references/cases/markdown/raw/2016-04-22.kokuchi.水不良が発生する瑕疵が存在すると主張す中古マンションの売買において、買主が主張する排.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-04-22.kokuchi.水不良が発生する瑕疵が存在すると主張す中古マンションの売買において、買主が主張する排.md`
+- raw: `00.references/cases/markdown/raw/2018-06-06.kokuchi.への売却に応じる意思を固めているが、この間、消費税相当額を含めない売買代金により売主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-06-06.kokuchi.への売却に応じる意思を固めているが、この間、消費税相当額を含めない売買代金により売主.md`
+- raw: `00.references/cases/markdown/raw/2018-11-27.kokuchi.違約金として受領することを通知した。日本語が理解できない買主が求めた、融資特約に基づ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-11-27.kokuchi.違約金として受領することを通知した。日本語が理解できない買主が求めた、融資特約に基づ.md`
+- raw: `00.references/cases/markdown/raw/2016-10-28.kokuchi.同年12月、Y1の媒介にて、Y2は、Aとの売主が媒介業者及び買主業者に対し、廉価にて.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-10-28.kokuchi.同年12月、Y1の媒介にて、Y2は、Aとの売主が媒介業者及び買主業者に対し、廉価にて.md`
+- raw: `00.references/cases/markdown/raw/date-unknown.chintai.判決(昭和43・11・21)がある。旧借家法の1条の2及び6条は、現在の借地借家法の.md`
+- cleaned: `00.references/cases/markdown/cleaned/date-unknown.chintai.判決(昭和43・11・21)がある。旧借家法の1条の2及び6条は、現在の借地借家法の.md`
+- raw: `00.references/cases/markdown/raw/2018-10-01.kokuchi.近隣に遺体一時保管施設が存在することを理由とした中古マンションの買主の売主・媒介業者.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-10-01.kokuchi.近隣に遺体一時保管施設が存在することを理由とした中古マンションの買主の売主・媒介業者.md`
+- raw: `00.references/cases/markdown/raw/2017-01-16.chintai.ることが推認される。本件ユニットバスには賃貸マンションの賃借人の建物設備の修繕請求が.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-01-16.chintai.ることが推認される。本件ユニットバスには賃貸マンションの賃借人の建物設備の修繕請求が.md`
+- raw: `00.references/cases/markdown/raw/2017-11-28.chintai.本件建物は旧耐震基準により建築されたも建物の耐震性能不足による賃貸借契約終了の賃借人.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-11-28.chintai.本件建物は旧耐震基準により建築されたも建物の耐震性能不足による賃貸借契約終了の賃借人.md`
+- raw: `00.references/cases/markdown/raw/2016-09-29.chintai.償還請求及び造作の買取請求を行うことを想原状回復を免除された賃借人が、賃貸人等に求め.md`
+- cleaned: `00.references/cases/markdown/cleaned/2016-09-29.chintai.償還請求及び造作の買取請求を行うことを想原状回復を免除された賃借人が、賃貸人等に求め.md`
+- raw: `00.references/cases/markdown/raw/1998-02-13.kokuchi.retio_hanrei_117-144.md`
+- cleaned: `00.references/cases/markdown/cleaned/1998-02-13.kokuchi.retio_hanrei_117-144.md`
+- raw: `00.references/cases/markdown/raw/2020-01-20.baibai.部分を記載した理由について、Yと話をする売主の意思能力が相当程度低かったとして買主の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-01-20.baibai.部分を記載した理由について、Yと話をする売主の意思能力が相当程度低かったとして買主の.md`
+- raw: `00.references/cases/markdown/raw/2019-09-26.chintai.1900万円で、B号室を1920万円で売却するこ投資用マンション売主に違法な勧誘があ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-26.chintai.1900万円で、B号室を1920万円で売却するこ投資用マンション売主に違法な勧誘があ.md`
+- raw: `00.references/cases/markdown/raw/2019-01-31.kanri.Xに渡された資料には、修繕費や管理費が投資用マンションの売買契約を締結した買主の、売.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-31.kanri.Xに渡された資料には、修繕費や管理費が投資用マンションの売買契約を締結した買主の、売.md`
+- raw: `00.references/cases/markdown/raw/2019-06-24.chintai.Yは、1Yの違約金支払いの定めのない本売買契約の買主の地位の譲受人が譲渡人に行った手.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-06-24.chintai.Yは、1Yの違約金支払いの定めのない本売買契約の買主の地位の譲受人が譲渡人に行った手.md`
+- raw: `00.references/cases/markdown/raw/2020-03-11.chintai.隣地賃借人から売買土地に賃借権があると主張され、売買契約が違約解除になったとして、売.md`
+- cleaned: `00.references/cases/markdown/cleaned/2020-03-11.chintai.隣地賃借人から売買土地に賃借権があると主張され、売買契約が違約解除になったとして、売.md`
+- raw: `00.references/cases/markdown/raw/2019-04-24.chintai.買主が売主に行った建物の瑕疵(雨漏り)に係る補修工事費用の支払い請求が売主の主張の範.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-04-24.chintai.買主が売主に行った建物の瑕疵(雨漏り)に係る補修工事費用の支払い請求が売主の主張の範.md`
+- raw: `00.references/cases/markdown/raw/2019-04-24.chintai.当該委任者に対して、書類の保存状況につい売主及び媒介業者が違法建築の説明をしなかった.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-04-24.chintai.当該委任者に対して、書類の保存状況につい売主及び媒介業者が違法建築の説明をしなかった.md`
+- raw: `00.references/cases/markdown/raw/2019-06-11.baibai.Yは、本契約は融資解除特約により、2月買主都合による決済期限の延長の際、明確な売主の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-06-11.baibai.Yは、本契約は融資解除特約により、2月買主都合による決済期限の延長の際、明確な売主の.md`
+- raw: `00.references/cases/markdown/raw/2018-11-13.kokuchi.媒介契約の債務不履行による損害賠償を求めた事案において、媒介業者に義務違反は認められ.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-11-13.kokuchi.媒介契約の債務不履行による損害賠償を求めた事案において、媒介業者に義務違反は認められ.md`
+- raw: `00.references/cases/markdown/raw/2019-09-19.chintai.の後、Yは控訴した。不動産のコンサルティング提案に誤りがあったことに起因する和解契約.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-19.chintai.の後、Yは控訴した。不動産のコンサルティング提案に誤りがあったことに起因する和解契約.md`
+- raw: `00.references/cases/markdown/raw/2019-06-25.chintai.媒介契約による本件賃貸借契約の締結に伴っ貸主の宅建業者への敷金の預託は、宅建業法64.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-06-25.chintai.媒介契約による本件賃貸借契約の締結に伴っ貸主の宅建業者への敷金の預託は、宅建業法64.md`
+- raw: `00.references/cases/markdown/raw/2019-02-06.chintai.月22日までのXの建物明渡し遅延に対する損大規模修繕工事の説明がないとして借主が貸主.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-02-06.chintai.月22日までのXの建物明渡し遅延に対する損大規模修繕工事の説明がないとして借主が貸主.md`
+- raw: `00.references/cases/markdown/raw/2019-07-05.chintai.最近の裁判例から(13)−更新拒絶の正当事由−賃貸住宅を購入し自ら居住するとした外国.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-07-05.chintai.最近の裁判例から(13)−更新拒絶の正当事由−賃貸住宅を購入し自ら居住するとした外国.md`
+- raw: `00.references/cases/markdown/raw/2019-05-20.chintai.認めた相当賃料ではなく従前賃料しか支払わなかった借主に対する貸主の更新拒絶が正当事由.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-05-20.chintai.認めた相当賃料ではなく従前賃料しか支払わなかった借主に対する貸主の更新拒絶が正当事由.md`
+- raw: `00.references/cases/markdown/raw/2017-07-20.chintai.裁判所は、次のとおり判示し、Xの請求を借主が貸主に隣室騒音による損害賠償等を求めたが.md`
+- cleaned: `00.references/cases/markdown/cleaned/2017-07-20.chintai.裁判所は、次のとおり判示し、Xの請求を借主が貸主に隣室騒音による損害賠償等を求めたが.md`
+- raw: `00.references/cases/markdown/raw/2019-03-19.chintai.民法220条、221条1項及び下水道法11条は、土地所有者の私道所有者に対する私道掘.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-03-19.chintai.民法220条、221条1項及び下水道法11条は、土地所有者の私道所有者に対する私道掘.md`
+- raw: `00.references/cases/markdown/raw/2019-07-18.chintai.債務不履行責任を負うこともないと主張した。賃貸不動産売買に際し、売主と買主の間におい.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-07-18.chintai.債務不履行責任を負うこともないと主張した。賃貸不動産売買に際し、売主と買主の間におい.md`
+- raw: `00.references/cases/markdown/raw/2019-11-27.chintai.当該売買契約が解除されたことが、直ちに承諾料を支払うことの合意に消長を来すものではな.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-11-27.chintai.当該売買契約が解除されたことが、直ちに承諾料を支払うことの合意に消長を来すものではな.md`
+- raw: `00.references/cases/markdown/raw/2019-09-17.kokuchi.9月に弁護士がXと面談し、今後の近隣関係特約による担保責任期間経過後の請求であるとし.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-17.kokuchi.9月に弁護士がXと面談し、今後の近隣関係特約による担保責任期間経過後の請求であるとし.md`
+- raw: `00.references/cases/markdown/raw/2019-09-26.chintai.フェストの写しを受領し、その余の埋設物は買主から売主に対する地中埋設物の撤去費用の請.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-26.chintai.フェストの写しを受領し、その余の埋設物は買主から売主に対する地中埋設物の撤去費用の請.md`
+- raw: `00.references/cases/markdown/raw/2018-03-19.chintai.同年5月に本件エレベーターの着床時に異引渡し5か月後に発生したエレベーター故障は、建.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-19.chintai.同年5月に本件エレベーターの着床時に異引渡し5か月後に発生したエレベーター故障は、建.md`
+- raw: `00.references/cases/markdown/raw/2019-08-09.chintai.その後、Xは、和解金の支払は、Yが、同媒介業者には廃材等の埋設可能性について調査確認.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-08-09.chintai.その後、Xは、和解金の支払は、Yが、同媒介業者には廃材等の埋設可能性について調査確認.md`
+- raw: `00.references/cases/markdown/raw/2019-01-21.kokuchi.体的な事実関係を認めるに足らない。宅建業法の善管注意義務の対象に取引関係に関与しない.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-01-21.kokuchi.体的な事実関係を認めるに足らない。宅建業法の善管注意義務の対象に取引関係に関与しない.md`
+- raw: `00.references/cases/markdown/raw/2019-06-25.kokuchi.金決済を行い、売買契約は完了した。隣地建物越境に関し誤った説明をしたとして媒介手数料.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-06-25.kokuchi.金決済を行い、売買契約は完了した。隣地建物越境に関し誤った説明をしたとして媒介手数料.md`
+- raw: `00.references/cases/markdown/raw/2018-11-30.baibai.そして、土地が建物の敷地に供する目的で取取引対象地の山林は宅建業法上の宅地ではないと.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-11-30.baibai.そして、土地が建物の敷地に供する目的で取取引対象地の山林は宅建業法上の宅地ではないと.md`
+- raw: `00.references/cases/markdown/raw/2019-10-09.chintai.の一部を認容した。外国人借主に対し貸主媒介業者の「A国人には仲介しない」との説明が差.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-10-09.chintai.の一部を認容した。外国人借主に対し貸主媒介業者の「A国人には仲介しない」との説明が差.md`
+- raw: `00.references/cases/markdown/raw/2018-12-14.chintai.円余の支払いを求めて反訴した。借室の目的使用ができなかった借主の貸主・仲介業者に対す.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-12-14.chintai.円余の支払いを求めて反訴した。借室の目的使用ができなかった借主の貸主・仲介業者に対す.md`
+- raw: `00.references/cases/markdown/raw/2019-09-20.chintai.得なくなったとして、賃貸人に対し、退去費用等を請求した事案において、賃貸人は適切に対.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-20.chintai.得なくなったとして、賃貸人に対し、退去費用等を請求した事案において、賃貸人は適切に対.md`
+- raw: `00.references/cases/markdown/raw/2019-07-04.chintai.X自身、本件契約以前から、障害福祉サー消防法に関して貸主の適合設備設置義務及び媒介業.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-07-04.chintai.X自身、本件契約以前から、障害福祉サー消防法に関して貸主の適合設備設置義務及び媒介業.md`
+- raw: `00.references/cases/markdown/raw/2019-09-27.chintai.裁判所は、次のように判示して、Xの請求賃借人が貸室内へゴミ放置と異臭を発生させた等の.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-27.chintai.裁判所は、次のように判示して、Xの請求賃借人が貸室内へゴミ放置と異臭を発生させた等の.md`
+- raw: `00.references/cases/markdown/raw/2019-09-24.chintai.な事由はなく、権利濫用に当たると主張した。賃借人が共用部に大量の荷物を置く行為を繰り.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-09-24.chintai.な事由はなく、権利濫用に当たると主張した。賃借人が共用部に大量の荷物を置く行為を繰り.md`
+- raw: `00.references/cases/markdown/raw/2019-02-13.chintai.1Yは本件駐車場契約の締結前に本件居室マンションのビルトイン型駐車場契約について、借.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-02-13.chintai.1Yは本件駐車場契約の締結前に本件居室マンションのビルトイン型駐車場契約について、借.md`
+- raw: `00.references/cases/markdown/raw/2018-03-22.chintai.X1らは、精神的・財産的損害を受けたと賃貸人の自力救済による不法行為に対し、170万.md`
+- cleaned: `00.references/cases/markdown/cleaned/2018-03-22.chintai.X1らは、精神的・財産的損害を受けたと賃貸人の自力救済による不法行為に対し、170万.md`
+- raw: `00.references/cases/markdown/raw/2019-03-25.kokuchi.るといずれは通行人等の生命、身体又は財産壁面タイル落下の危険性を放置した建物所有者に.md`
+- cleaned: `00.references/cases/markdown/cleaned/2019-03-25.kokuchi.るといずれは通行人等の生命、身体又は財産壁面タイル落下の危険性を放置した建物所有者に.md`
+
+## archive-original-md に移動したMarkdown一覧
+- なし
+
+## 重複候補
+- `00.references/cases/inbox/112-120-9_merged.pdf`: 今回inbox内に同一RETIO番号候補あり: 112-120
+- `00.references/cases/inbox/116-124 (1).pdf`: 今回inbox内に同一RETIO番号候補あり: 116-124
+- `00.references/cases/inbox/retio_hanrei_120-146.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-148.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-150.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-152.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-154.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-156.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-158.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-160.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-162.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-164.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-166.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-168.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-170.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-172.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-174.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+- `00.references/cases/inbox/retio_hanrei_120-176.pdf`: originalsに同名PDFあり / raw/cleanedに同一source_pdfあり
+
+## 未整理候補
+- 00.references/cases/inbox/112-120-9_merged.pdf
+- 00.references/cases/inbox/116-124 (1).pdf
+- 00.references/cases/inbox/retio_hanrei_120-146.pdf
+- 00.references/cases/inbox/retio_hanrei_120-148.pdf
+- 00.references/cases/inbox/retio_hanrei_120-150.pdf
+- 00.references/cases/inbox/retio_hanrei_120-152.pdf
+- 00.references/cases/inbox/retio_hanrei_120-154.pdf
+- 00.references/cases/inbox/retio_hanrei_120-156.pdf
+- 00.references/cases/inbox/retio_hanrei_120-158.pdf
+- 00.references/cases/inbox/retio_hanrei_120-160.pdf
+- 00.references/cases/inbox/retio_hanrei_120-162.pdf
+- 00.references/cases/inbox/retio_hanrei_120-164.pdf
+- 00.references/cases/inbox/retio_hanrei_120-166.pdf
+- 00.references/cases/inbox/retio_hanrei_120-168.pdf
+- 00.references/cases/inbox/retio_hanrei_120-170.pdf
+- 00.references/cases/inbox/retio_hanrei_120-172.pdf
+- 00.references/cases/inbox/retio_hanrei_120-174.pdf
+- 00.references/cases/inbox/retio_hanrei_120-176.pdf
+
+## date-unknown 件数
+- raw: 3件
+- cleaned: 3件
+- 合計: 6件
+
+## 処理日始まりファイル件数
+- 対象: 2026-05-11 始まり
+- raw + cleaned: 0件
+
+## エラー
+- なし
+
+## git diff --stat 結果
+```text
+ .../cases/inbox-organization-report-2026-05-10-2.md    |  15 +++++++++++++++
+ 00.references/cases/inbox/retio_no137-128.pdf          | Bin 413403 -> 0 bytes
+ 2 files changed, 15 insertions(+)
+```
+
+- 注記: `git diff --stat` は未追跡ファイルを表示しないため、今回新規作成したMarkdown・移動PDF・本レポートは上記には出ていません。
+
+## git diff --check 結果
+```text
+warning: in the working copy of '00.references/cases/inbox-organization-report-2026-05-10-2.md', LF will be replaced by CRLF the next time Git touches it
+```
+
+## case-index.md
+- case-index.md は変更していません。
+
+## 最終確認
+- raw件数: 381
+- cleaned件数: 381
+- inboxに残った通常ファイル: 18件
+  - 112-120-9_merged.pdf
+  - 116-124 (1).pdf
+  - retio_hanrei_120-146.pdf
+  - retio_hanrei_120-148.pdf
+  - retio_hanrei_120-150.pdf
+  - retio_hanrei_120-152.pdf
+  - retio_hanrei_120-154.pdf
+  - retio_hanrei_120-156.pdf
+  - retio_hanrei_120-158.pdf
+  - retio_hanrei_120-160.pdf
+  - retio_hanrei_120-162.pdf
+  - retio_hanrei_120-164.pdf
+  - retio_hanrei_120-166.pdf
+  - retio_hanrei_120-168.pdf
+  - retio_hanrei_120-170.pdf
+  - retio_hanrei_120-172.pdf
+  - retio_hanrei_120-174.pdf
+  - retio_hanrei_120-176.pdf
+- date-unknown始まり件数: 32件（raw 16件、cleaned 16件）
+- 処理日始まり件数: 0件
