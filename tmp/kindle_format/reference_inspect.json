@@ -1,0 +1,3059 @@
+﻿{
+  "path": "tmp\\kindle_format\\reference_2025-05-05第1話.docx",
+  "paragraph_count": 1104,
+  "table_count": 1,
+  "section_count": 1,
+  "sections": [
+    {
+      "page_width_pt": 595.3,
+      "page_height_pt": 841.9,
+      "top_margin_pt": 99.25,
+      "bottom_margin_pt": 85.05,
+      "left_margin_pt": 85.05,
+      "right_margin_pt": 85.05,
+      "header_distance_pt": 42.55,
+      "footer_distance_pt": 49.6
+    }
+  ],
+  "zip_counts": {
+    "images": 16,
+    "headers": 0,
+    "footers": 0,
+    "footnotes": false,
+    "endnotes": false,
+    "comments": false,
+    "custom_props": false
+  },
+  "style_counts": [
+    [
+      "Normal",
+      1094
+    ],
+    [
+      "Heading 1",
+      10
+    ]
+  ],
+  "style_avg_lengths": {
+    "Heading 1": 16.4,
+    "Normal": 15.88
+  },
+  "page_break_paragraph_indexes": [
+    0,
+    18,
+    51,
+    190,
+    477,
+    662,
+    872,
+    1068,
+    1091
+  ],
+  "used_style_snapshot": {
+    "Heading 1": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": null,
+      "font_size_pt": 16.0,
+      "bold": null,
+      "italic": null,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "keep_with_next": true,
+      "page_break_before": null
+    },
+    "Normal": {
+      "type": "PARAGRAPH (1)",
+      "base": null,
+      "font_name": null,
+      "font_size_pt": null,
+      "bold": null,
+      "italic": null,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 5.0,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "keep_with_next": null,
+      "page_break_before": null
+    }
+  },
+  "samples": [
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": 20.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": null
+          }
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": 20.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": null
+          }
+        }
+      ],
+      "index": 0
+    },
+    {
+      "style": "Normal",
+      "text": "女子高生でもわかる不動産",
+      "full_len": 12,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "女子高生でもわかる不動産",
+          "bold": null,
+          "italic": null,
+          "size_pt": 20.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": null
+          }
+        }
+      ],
+      "index": 2
+    },
+    {
+      "style": "Normal",
+      "text": "第1巻：沼子、敷金ってなんですか？",
+      "full_len": 17,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第1巻：沼子、敷金ってなんですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 14.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": null
+          }
+        }
+      ],
+      "index": 3
+    },
+    {
+      "style": "Normal",
+      "text": "―寸劇と実話で学ぶ、リアルな賃貸契約の第一歩―",
+      "full_len": 23,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "―寸劇と実話で学ぶ、リアルな賃貸契約の第一歩―",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 4
+    },
+    {
+      "style": "Normal",
+      "text": "この本は、たくさんの失敗と、少しの勇気と、そして多くの支えによって生まれました。",
+      "full_len": 40,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "この本は、たくさんの失敗と、少しの勇気と、そして多くの支えによって生まれました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 6
+    },
+    {
+      "style": "Normal",
+      "text": "書き続けることの苦しさも、喜びも、あなたたちと出会ったからこそ知ることができました。\nページをめくるその手に、ほんの少しでも灯りがともせますように。",
+      "full_len": 74,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "書き続けることの苦しさも、喜びも、あなたたちと出会ったからこそ知ることができました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "\nページをめくるその手に、ほんの少しでも灯りがともせますように。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 7
+    },
+    {
+      "style": "Normal",
+      "text": "1作目では、「紛争地帯の不動産屋」と題して、実際の判例を題材にトラブル予防のヒントをお届けしました。\n本作では、もう少し手前、不動産のことをよく知らない方にこそ読んでほしいと願い、筆を執りました。\n読み進めるうちに、また判例の世界にも触れていただけるよう工夫していますので、\nこれから不動産と関わるすべての方が、トラブル",
+      "full_len": 179,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "1作目では、「紛争地帯の不動産屋」と題して、実際の判例を題材にトラブル予防のヒントをお届けしました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "\n本作では、もう少し手前、不動産のことをよく知らない方にこそ読んでほしいと願い、筆を執りました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "\n読み進めるうちに、また判例の世界にも触れていただけるよう工夫していますので、",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "\nこれから不動産と関わるすべての方が、トラブルに巻き込まれずにすむよう願っています。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 8
+    },
+    {
+      "style": "Normal",
+      "text": "なお、本書の制作にあたっては、OpenAI社のChatGPTをフル活用しています。\nこうした優れたサービスと技術開発に対しても、深く感謝申し上げます。",
+      "full_len": 75,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "なお、本書の制作にあたっては、OpenAI社のChatGPTをフル活用しています。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "\nこうした優れたサービスと技術開発に対しても、深く感謝申し上げます。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 9
+    },
+    {
+      "style": "Normal",
+      "text": "この本を届けたいすべての人へ。",
+      "full_len": 15,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "この本を届けたいすべての人へ。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 10
+    },
+    {
+      "style": "Normal",
+      "text": "心からの感謝をこめて。",
+      "full_len": 11,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "心からの感謝をこめて。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 11
+    },
+    {
+      "style": "Normal",
+      "text": "Copyright © 2024 Ryohei Tanabe\nAll rights reserved.",
+      "full_len": 51,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "Copyright © 202",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "4 Ryohei Tanabe",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "\nAll rights reserved.",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 17
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 18
+    },
+    {
+      "style": "Heading 1",
+      "text": "登場人物紹介",
+      "full_len": 6,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 16.0,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "登場人物紹介",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 23
+    },
+    {
+      "style": "Normal",
+      "text": "■ 沼子（ぬまこ）",
+      "full_len": 9,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "■ 沼子（ぬまこ）",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 24
+    },
+    {
+      "style": "Normal",
+      "text": "演劇部に所属する元気な女子高生。",
+      "full_len": 16,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "演劇部に所属する元気な女子高生。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 25
+    },
+    {
+      "style": "Normal",
+      "text": "知識ゼロから「部屋を借りる」という謎ミッションに挑むことに。",
+      "full_len": 30,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "知識ゼロから「部屋を借りる」という謎ミッションに挑むことに。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 26
+    },
+    {
+      "style": "Normal",
+      "text": "失敗してもめげないタイプで、寸劇の主演もこなす。",
+      "full_len": 24,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "失敗してもめげないタイプで、寸劇の主演もこなす。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 27
+    },
+    {
+      "style": "Normal",
+      "text": "口ぐせは「先生、コレ詐欺っスか？」。",
+      "full_len": 18,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "口ぐせは「先生、コレ詐欺っスか？」。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 28
+    },
+    {
+      "style": "Normal",
+      "text": "読者と一緒に学んでいく“突っ込み＆リアクション担当”！",
+      "full_len": 27,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "読者と一緒に学んでいく“突っ込み＆リアクション担当”！",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 29
+    },
+    {
+      "style": "Normal",
+      "text": "■ モモエ（桃江）",
+      "full_len": 9,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "■ モモエ（桃江）",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 31
+    },
+    {
+      "style": "Normal",
+      "text": "街の不動産屋で働く、ちょっとワケありな人物。",
+      "full_len": 22,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "街の不動産屋で働く、ちょっとワケありな人物。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 32
+    },
+    {
+      "style": "Normal",
+      "text": "名前は“桃江（モモエ）”。",
+      "full_len": 13,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "名前は“桃江（モモエ）”。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 33
+    },
+    {
+      "style": "Normal",
+      "text": "鋭いツッコミ、でも実は情に厚く、根は優しい。",
+      "full_len": 22,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "鋭いツッコミ、でも実は情に厚く、根は優しい。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 34
+    },
+    {
+      "style": "Normal",
+      "text": "“元不良”を思わせる雰囲気と、意外にマジメな知識量で沼子を導く。",
+      "full_len": 32,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "“元不良”を思わせる雰囲気と、意外にマジメな知識量で沼子を導く。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 35
+    },
+    {
+      "style": "Normal",
+      "text": "寸劇では冷静に悪役を演じることが多い。",
+      "full_len": 19,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "寸劇では冷静に悪役を演じることが多い。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 36
+    },
+    {
+      "style": "Normal",
+      "text": "物語の“先生ポジション”。実務と人情のハイブリッド！",
+      "full_len": 26,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "物語の“先生ポジション”。実務と人情のハイブリッド！",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 37
+    },
+    {
+      "style": "Normal",
+      "text": "■ たかし",
+      "full_len": 5,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "■ たかし",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 39
+    },
+    {
+      "style": "Normal",
+      "text": "寸劇に出てくる“架空のトラブル多発系サラリーマン”。",
+      "full_len": 26,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "寸劇に出てくる“架空のトラブル多発系サラリーマン”。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 40
+    },
+    {
+      "style": "Normal",
+      "text": "契約書を読まず、更新料に泣き、審査に落ちるという三重苦キャラ。",
+      "full_len": 31,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "契約書を読まず、更新料に泣き、審査に落ちるという三重苦キャラ。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 41
+    },
+    {
+      "style": "Normal",
+      "text": "なぜか毎回登場し、ネタにされるが、本人はいたって真面目。",
+      "full_len": 28,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "なぜか毎回登場し、ネタにされるが、本人はいたって真面目。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 42
+    },
+    {
+      "style": "Normal",
+      "text": "読者の「自分もこうならないようにしよう…」を誘う存在。",
+      "full_len": 27,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "読者の「自分もこうならないようにしよう…」を誘う存在。",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 43
+    },
+    {
+      "style": "Normal",
+      "text": "■ その他（今後登場予定…？）",
+      "full_len": 15,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "■ その他（今後登場予定…？）",
+          "bold": true,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 45
+    },
+    {
+      "style": "Normal",
+      "text": "神愛（かみあい）：謎の“女子力高め”人物。あまりの美貌に周囲が騒然",
+      "full_len": 33,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "神愛（かみあい）：謎の“女子力高め”人物。あまりの美貌に周囲が騒然",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 46
+    },
+    {
+      "style": "Normal",
+      "text": "しおり：冷静沈着な秘書系キャラ。実はモモエの過去を知っているらしい……",
+      "full_len": 35,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "しおり：冷静沈着な秘書系キャラ。実はモモエの過去を知っているらしい……",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 47
+    },
+    {
+      "style": "Normal",
+      "text": "続巻では新キャラも続々登場予定！？",
+      "full_len": 17,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "続巻では新キャラも続々登場予定！？",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 48
+    },
+    {
+      "style": "Normal",
+      "text": "お楽しみに！",
+      "full_len": 6,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "お楽しみに！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 49
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 51
+    },
+    {
+      "style": "Heading 1",
+      "text": "第1話：はじめまして、先生",
+      "full_len": 13,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第1話：はじめまして、先生",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 53
+    },
+    {
+      "style": "Normal",
+      "text": "事務所のドアが、元気すぎる音を立てて開いた。",
+      "full_len": 22,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "事務所のドアが、元気すぎる音を立てて開いた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 55
+    },
+    {
+      "style": "Normal",
+      "text": "「ちわ〜っす！ 今日もよろしくお願いしまぁ〜す！」",
+      "full_len": 25,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「ちわ〜っす！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": " 今日もよろしくお願いしまぁ",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "〜す！」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 57
+    },
+    {
+      "style": "Normal",
+      "text": "昼下がり。郵便配達もひと段落し、ようやくコーヒーでも淹れようかと思っていたところで、それはやって来た。",
+      "full_len": 51,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "昼下がり。郵便配達もひと段落し、ようやくコーヒーでも淹れようかと思っていたところで、それはやって来た。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 59
+    },
+    {
+      "style": "Normal",
+      "text": "制服姿にスポーツバッグ、髪は軽くハネていて、手にはドリンクバーのカップらしきもの。",
+      "full_len": 41,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "制服姿にスポーツバッグ、髪は軽くハネていて、手にはドリンクバーのカップらしきもの。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 61
+    },
+    {
+      "style": "Normal",
+      "text": "何から何まで「部外者感」がにじみ出ているのに、なぜか毎日当然のような顔をしてこの事務所に現れる。",
+      "full_len": 48,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "何から何まで「部外者感」がにじみ出ているのに、なぜか毎日当然のような顔をしてこの事務所に現れる。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 63
+    },
+    {
+      "style": "Normal",
+      "text": "桃江は、今日も机に向かいながら小さくため息をついた。",
+      "full_len": 26,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "桃江は、今日も机に向かいながら小さくため息をついた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 65
+    },
+    {
+      "style": "Normal",
+      "text": "「また来たのか、お前……」",
+      "full_len": 13,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「また来たのか、お前……」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 67
+    },
+    {
+      "style": "Normal",
+      "text": "「来ちゃダメだったスか？」",
+      "full_len": 13,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「来ちゃダメだったスか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 69
+    },
+    {
+      "style": "Normal",
+      "text": "ぴょこっと首だけ出してくるその姿は、どこか犬っぽい。無駄に愛嬌だけはある。",
+      "full_len": 37,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "ぴょこっと首だけ出してくるその姿は、どこか犬っぽい。無駄に愛嬌だけはある。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 71
+    },
+    {
+      "style": "Normal",
+      "text": "「……“研修”って意味、理解してるか？」",
+      "full_len": 20,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「……“研修”って意味、理解してるか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 73
+    },
+    {
+      "style": "Normal",
+      "text": "「してますしてます！ “静かに見学すること”っスよね〜。",
+      "full_len": 28,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「してますしてます！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": " “静かに見学すること”っスよね",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "〜。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 75
+    },
+    {
+      "style": "Normal",
+      "text": "でもアタシ、静かにしてたら質問できないんで！」",
+      "full_len": 23,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "でもアタシ、静かにしてたら質問できないんで！」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 77
+    },
+    {
+      "style": "Normal",
+      "text": "「静かにできないなら、せめて元気に挨拶しないでくれ。近所の工事の方がまだ音量低いぞ」",
+      "full_len": 42,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「静かにできないなら、せめて元気に挨拶しないでくれ。近所の工事の方がまだ音量低いぞ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 79
+    },
+    {
+      "style": "Normal",
+      "text": "「それ、褒めてます？」",
+      "full_len": 11,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「それ、褒めてます？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 81
+    },
+    {
+      "style": "Normal",
+      "text": "「どこをどう取ればそう聞こえるんだよ」",
+      "full_len": 19,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「どこをどう取ればそう聞こえるんだよ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 83
+    },
+    {
+      "style": "Normal",
+      "text": "今日も彼女は“研修生”という名目で、この町の小さな不動産屋にやってきた。",
+      "full_len": 36,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "今日も彼女は“研修生”という名目で、この町の小さな不動産屋にやってきた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 85
+    },
+    {
+      "style": "Normal",
+      "text": "名は沼子。高校生。地元の学校に通う三年生で、進路も将来も「これから考える」という模範的な“これから枠”だ。",
+      "full_len": 53,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "名は沼子。高校生。地元の学校に通う三年生で、進路も将来も「これから考える」という模範的な“これから枠”だ。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 87
+    },
+    {
+      "style": "Normal",
+      "text": "彼女の母親とモモエが偶然飲み仲間だった縁で、「春休みの間、職場体験させてくれない？」という話になり、軽い気持ちで了承したのが運の尽きだった。",
+      "full_len": 70,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "彼女の母親とモモエが偶然飲み仲間だった縁で、「春休みの間、職場体験させてくれない？」という話になり、軽い気持ちで了承した",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 89
+    },
+    {
+      "style": "Normal",
+      "text": "普通の子なら最初の1日で帰る。書類整理や物件写真の補正作業、地味な入力作業に飽きて「やっぱ向いてないかも〜」となるのが定番だ。",
+      "full_len": 63,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "普通の子なら最初の",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "1日で帰る。書類整理や物件写真の補正作業、地味な入力作業に飽きて「やっぱ向いてないかも",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "〜」となるのが定番だ。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 91
+    },
+    {
+      "style": "Normal",
+      "text": "だが沼子は違った。",
+      "full_len": 9,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "だが沼子は違った。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 93
+    },
+    {
+      "style": "Normal",
+      "text": "毎日やって来て、ちょっとした隙に「これってナニ？」「今の作業ってなんの意味あるんスか？」とズカズカ質問してくる。",
+      "full_len": 56,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "毎日やって来て、ちょっとした隙に「これってナニ？」「今の作業ってなんの意味あるんスか？」とズカズカ質問してくる。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 95
+    },
+    {
+      "style": "Normal",
+      "text": "こっちは仕事しながらその度に解説を求められ、軽い拷問のような日々を送る羽目になっている。",
+      "full_len": 44,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "こっちは仕事しながらその度に解説を求められ、軽い拷問のような日々を送る羽目になっている。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 97
+    },
+    {
+      "style": "Normal",
+      "text": "でも、彼女の質問には悪意がない。ただ純粋に、知りたがっている。",
+      "full_len": 31,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "でも、彼女の質問には悪意がない。ただ純粋に、知りたがっている。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 99
+    },
+    {
+      "style": "Normal",
+      "text": "それが分かってしまうから、モモエも「うるさいな」と言いながら、つい答えてしまうのだった。",
+      "full_len": 44,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "それが分かってしまうから、モモエも「うるさいな」と言いながら、つい答えてしまうのだった。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 101
+    },
+    {
+      "style": "Normal",
+      "text": "「で、今日は何を聞きに来たんだ」",
+      "full_len": 16,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「で、今日は何を聞きに来たんだ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 103
+    },
+    {
+      "style": "Normal",
+      "text": "諦めの混じった声で問うと、沼子は大きな目を輝かせて、バッグからノートを取り出した。",
+      "full_len": 41,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "諦めの混じった声で問うと、沼子は大きな目を輝かせて、バッグからノートを取り出した。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 105
+    },
+    {
+      "style": "Normal",
+      "text": "「今日はですね〜……“しききん”って、返ってくるんスか？」",
+      "full_len": 29,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「今日はですね〜……“しききん”って、返ってくるんスか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 107
+    },
+    {
+      "style": "Normal",
+      "text": "その瞬間、モモエはフリーズした。",
+      "full_len": 16,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "その瞬間、モモエはフリーズした。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 109
+    },
+    {
+      "style": "Normal",
+      "text": "敷金。",
+      "full_len": 3,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "敷金。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 111
+    },
+    {
+      "style": "Normal",
+      "text": "それは不動産の世界では割と初歩で、でも同時にトラブルの火種にもなりがちな単語。",
+      "full_len": 39,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "それは不動産の世界では割と初歩で、でも同時にトラブルの火種にもなりがちな単語。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 113
+    },
+    {
+      "style": "Normal",
+      "text": "しかも“返ってくるんスか？”というラフすぎる言い方。予習ゼロ、直球勝負。実に彼女らしい。",
+      "full_len": 44,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "しかも“返ってくるんスか？”というラフすぎる言い方。予習ゼロ、直球勝負。実に彼女らしい。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 115
+    },
+    {
+      "style": "Normal",
+      "text": "「……それ、昨日も聞いてなかったか？」",
+      "full_len": 19,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「……それ、昨日も聞いてなかったか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 117
+    },
+    {
+      "style": "Normal",
+      "text": "「え〜？ 言ってましたっけ？ でも、ちゃんと聞いてなかったんで。もう一回お願いしまぁ〜す！」",
+      "full_len": 46,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「え〜？",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": " 言ってましたっけ？ でも、ちゃんと聞いてなかったんで。もう一回お願いしまぁ",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "〜す！」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 119
+    },
+    {
+      "style": "Normal",
+      "text": "悪びれる様子もなく笑うその姿に、モモエはもう一度ため息をついた。",
+      "full_len": 32,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "悪びれる様子もなく笑うその姿に、モモエはもう一度ため息をついた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 121
+    },
+    {
+      "style": "Normal",
+      "text": "それと同時に、机の右端に置いていたマイボードマーカーを手に取る。",
+      "full_len": 32,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "それと同時に、机の右端に置いていたマイボードマーカーを手に取る。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 123
+    },
+    {
+      "style": "Normal",
+      "text": "「……わかった。一回だけだ。ちゃんとメモれよ？」",
+      "full_len": 24,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「……わかった。一回だけだ。ちゃんとメモれよ？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 125
+    },
+    {
+      "style": "Normal",
+      "text": "「はいっ！ よっ、令和の宅建王！」",
+      "full_len": 17,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「はいっ！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": " よっ、令和の宅建王！」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 127
+    },
+    {
+      "style": "Normal",
+      "text": "「黙って座れ」",
+      "full_len": 7,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「黙って座れ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 129
+    },
+    {
+      "style": "Normal",
+      "text": "沼子は勢いよくノートを開くと、ページの隅に落書きされた猫の絵を指で隠しながら、ボールペンをくるくる回していた。",
+      "full_len": 55,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "沼子は勢いよくノートを開くと、ページの隅に落書きされた猫の絵を指で隠しながら、ボールペンをくるくる回していた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 131
+    },
+    {
+      "style": "Normal",
+      "text": "そのクセ、前にも見たな、とモモエは思った。ノートを開いている風で、集中してるようでしてないやつ。",
+      "full_len": 48,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "そのクセ、前にも見たな、とモモエは思った。ノートを開いている風で、集中してるようでしてないやつ。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 134
+    },
+    {
+      "style": "Normal",
+      "text": "けれども、不思議と彼女は、話したことの“ポイント”だけはちゃんと覚えている。昨日も、敷金という言葉だけはしっかり記憶していたようだ。",
+      "full_len": 66,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "けれども、不思議と彼女は、話したことの“ポイント”だけはちゃんと覚えている。昨日も、敷金という言葉だけはしっかり記憶して",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 136
+    },
+    {
+      "style": "Normal",
+      "text": "白板の代わりに、モモエは机の上のスケッチブックを引き寄せ、サラサラと図を描き始めた。",
+      "full_len": 42,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "白板の代わりに、モモエは机の上のスケッチブックを引き寄せ、サラサラと図を描き始めた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 138
+    }
+  ],
+  "tail_samples": [
+    {
+      "style": "Normal",
+      "text": "読んでない人から泣いていく！",
+      "full_len": 14,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "読んでない人から泣いていく！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1074
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1075
+    },
+    {
+      "style": "Normal",
+      "text": "３．初期費用は、家賃の5〜6倍！？",
+      "full_len": 17,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "３．初期費用は、家賃の",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "5",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        },
+        {
+          "text": "〜",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "6倍！？",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1076
+    },
+    {
+      "style": "Normal",
+      "text": "見積書の“謎費用”は質問してOK！",
+      "full_len": 17,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "見積書の“謎費用”は質問して",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "OK！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1077
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1078
+    },
+    {
+      "style": "Normal",
+      "text": "４．審査はオーディションだと思え！",
+      "full_len": 17,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "４．審査はオーディションだと思え！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1079
+    },
+    {
+      "style": "Normal",
+      "text": "家賃と収入のバランス、信用情報も見られてる！",
+      "full_len": 22,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "家賃と収入のバランス、信用情報も見られてる！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1080
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1081
+    },
+    {
+      "style": "Normal",
+      "text": "５．困ったら“別の仲介会社”もアリ！",
+      "full_len": 18,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "５．困ったら“別の仲介会社”もアリ！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1082
+    },
+    {
+      "style": "Normal",
+      "text": "物件は同じでも、初期費用は違うこともある！",
+      "full_len": 21,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "物件は同じでも、初期費用は違うこともある！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1083
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1084
+    },
+    {
+      "style": "Heading 1",
+      "text": "モモエのワンポイントまとめ（しぶめ）",
+      "full_len": 18,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 16.0,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "モモエのワンポイントまとめ（しぶめ）",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1085
+    },
+    {
+      "style": "Normal",
+      "text": "「知らないと、損をする。",
+      "full_len": 12,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「知らないと、損をする。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1086
+    },
+    {
+      "style": "Normal",
+      "text": "でも知ってれば、“選べるようになる”。",
+      "full_len": 19,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "でも知ってれば、“選べるようになる”。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1087
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1088
+    },
+    {
+      "style": "Normal",
+      "text": "借りるのは自由だけど、選ぶのは責任。",
+      "full_len": 18,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "借りるのは自由だけど、選ぶのは責任。",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1089
+    },
+    {
+      "style": "Normal",
+      "text": "お前の“選択肢”を増やすために、俺は教えてるだけだ」",
+      "full_len": 26,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "お前の“選択肢”を増やすために、俺は教えてるだけだ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1090
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1091
+    },
+    {
+      "style": "Heading 1",
+      "text": "📝 沼子の初期費用チェックメモ（保存版）",
+      "full_len": 20,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 16.0,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "📝",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": "Segoe UI Emoji",
+          "fonts": {
+            "ascii": "Segoe UI Emoji",
+            "hAnsi": "Segoe UI Emoji",
+            "eastAsia": null,
+            "cs": "Segoe UI Emoji"
+          }
+        },
+        {
+          "text": " 沼子の初期費用チェックメモ（保存版）",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1092
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1093
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1094
+    },
+    {
+      "style": "Normal",
+      "text": "※見積書をもらったら、「これは必要か？」を一個ずつ聞いてみよう！",
+      "full_len": 32,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "※見積書をもらったら、「これは必要か？」を一個ずつ聞いてみよう！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1095
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1096
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1097
+    },
+    {
+      "style": "Heading 1",
+      "text": "次巻予告",
+      "full_len": 4,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 16.0,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "次巻予告",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1098
+    },
+    {
+      "style": "Normal",
+      "text": "次はいよいよ、新キャラ登場！？",
+      "full_len": 15,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "次はいよいよ、新キャラ登場！？",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1099
+    },
+    {
+      "style": "Normal",
+      "text": "モモエの過去を知る“冷静系秘書”…",
+      "full_len": 17,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "モモエの過去を知る“冷静系秘書”…",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1100
+    },
+    {
+      "style": "Normal",
+      "text": "さらに、美しすぎる謎の“女子力おばけ”も現れて――！？",
+      "full_len": 27,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "さらに、美しすぎる謎の“女子力おばけ”も現れて――！？",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        }
+      ],
+      "index": 1101
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [],
+      "index": 1102
+    },
+    {
+      "style": "Normal",
+      "text": "『女子高生でもわかる不動産』第2巻、お楽しみに！",
+      "full_len": 24,
+      "alignment": null,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "『女子高生でもわかる不動産』第",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {
+            "ascii": null,
+            "hAnsi": null,
+            "eastAsia": null,
+            "cs": null
+          }
+        },
+        {
+          "text": "2巻、お楽しみに！",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 1103
+    }
+  ]
+}

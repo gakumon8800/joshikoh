@@ -1,0 +1,428 @@
+﻿{
+  "pdf": "tmp\\kindle_format\\render_reference_word\\reference.pdf",
+  "page_count": 42,
+  "nonblank_pages": 42,
+  "blank_like_pages": [],
+  "pages": [
+    {
+      "page": 1,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-001.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 10,
+      "gray_max": 255,
+      "gray_mean": 210.08,
+      "nonblank": true
+    },
+    {
+      "page": 2,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-002.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 250.72,
+      "nonblank": true
+    },
+    {
+      "page": 3,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-003.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 246.47,
+      "nonblank": true
+    },
+    {
+      "page": 4,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-004.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 250.28,
+      "nonblank": true
+    },
+    {
+      "page": 5,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-005.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 252.22,
+      "nonblank": true
+    },
+    {
+      "page": 6,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-006.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 251.25,
+      "nonblank": true
+    },
+    {
+      "page": 7,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-007.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 238.1,
+      "nonblank": true
+    },
+    {
+      "page": 8,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-008.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 251.42,
+      "nonblank": true
+    },
+    {
+      "page": 9,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-009.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 240.8,
+      "nonblank": true
+    },
+    {
+      "page": 10,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-010.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 251.32,
+      "nonblank": true
+    },
+    {
+      "page": 11,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-011.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 244.84,
+      "nonblank": true
+    },
+    {
+      "page": 12,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-012.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 250.77,
+      "nonblank": true
+    },
+    {
+      "page": 13,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-013.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 241.98,
+      "nonblank": true
+    },
+    {
+      "page": 14,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-014.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 251.1,
+      "nonblank": true
+    },
+    {
+      "page": 15,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-015.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 252.28,
+      "nonblank": true
+    },
+    {
+      "page": 16,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-016.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 251.3,
+      "nonblank": true
+    },
+    {
+      "page": 17,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-017.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 251.33,
+      "nonblank": true
+    },
+    {
+      "page": 18,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-018.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 243.34,
+      "nonblank": true
+    },
+    {
+      "page": 19,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-019.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 250.3,
+      "nonblank": true
+    },
+    {
+      "page": 20,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-020.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 254.53,
+      "nonblank": true
+    },
+    {
+      "page": 21,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-021.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 242.37,
+      "nonblank": true
+    },
+    {
+      "page": 22,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-022.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 252.05,
+      "nonblank": true
+    },
+    {
+      "page": 23,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-023.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 246.91,
+      "nonblank": true
+    },
+    {
+      "page": 24,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-024.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 252.78,
+      "nonblank": true
+    },
+    {
+      "page": 25,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-025.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 242.78,
+      "nonblank": true
+    },
+    {
+      "page": 26,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-026.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 252.25,
+      "nonblank": true
+    },
+    {
+      "page": 27,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-027.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 239.36,
+      "nonblank": true
+    },
+    {
+      "page": 28,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-028.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 3,
+      "gray_max": 255,
+      "gray_mean": 252.06,
+      "nonblank": true
+    },
+    {
+      "page": 29,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-029.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 251.64,
+      "nonblank": true
+    },
+    {
+      "page": 30,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-030.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 243.55,
+      "nonblank": true
+    },
+    {
+      "page": 31,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-031.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 245.12,
+      "nonblank": true
+    },
+    {
+      "page": 32,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-032.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 251.69,
+      "nonblank": true
+    },
+    {
+      "page": 33,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-033.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 251.39,
+      "nonblank": true
+    },
+    {
+      "page": 34,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-034.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 244.22,
+      "nonblank": true
+    },
+    {
+      "page": 35,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-035.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 252.28,
+      "nonblank": true
+    },
+    {
+      "page": 36,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-036.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 251.64,
+      "nonblank": true
+    },
+    {
+      "page": 37,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-037.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 245.32,
+      "nonblank": true
+    },
+    {
+      "page": 38,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-038.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 2,
+      "gray_max": 255,
+      "gray_mean": 253.35,
+      "nonblank": true
+    },
+    {
+      "page": 39,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-039.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 241.05,
+      "nonblank": true
+    },
+    {
+      "page": 40,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-040.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 1,
+      "gray_max": 255,
+      "gray_mean": 252.63,
+      "nonblank": true
+    },
+    {
+      "page": 41,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-041.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 252.67,
+      "nonblank": true
+    },
+    {
+      "page": 42,
+      "path": "tmp\\kindle_format\\render_reference_word\\pages\\page-042.png",
+      "width": 953,
+      "height": 1348,
+      "gray_min": 0,
+      "gray_max": 255,
+      "gray_mean": 252.64,
+      "nonblank": true
+    }
+  ]
+}

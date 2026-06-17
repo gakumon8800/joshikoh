@@ -1,0 +1,3145 @@
+﻿{
+  "path": "03.manuscript\\new-volume-01\\第5巻_先生、賃貸トラブルは契約書だけでは終わりません_Kindle出版用.docx",
+  "paragraph_count": 5238,
+  "table_count": 1,
+  "section_count": 1,
+  "sections": [
+    {
+      "page_width_pt": 595.3,
+      "page_height_pt": 841.9,
+      "top_margin_pt": 99.2,
+      "bottom_margin_pt": 85.05,
+      "left_margin_pt": 85.05,
+      "right_margin_pt": 85.05,
+      "header_distance_pt": 42.5,
+      "footer_distance_pt": 49.6
+    }
+  ],
+  "zip_counts": {
+    "images": 0,
+    "headers": 0,
+    "footers": 0,
+    "footnotes": true,
+    "endnotes": true,
+    "comments": false,
+    "custom_props": false
+  },
+  "style_counts": [
+    [
+      "Normal",
+      4099
+    ],
+    [
+      "List Bullet",
+      730
+    ],
+    [
+      "Heading 3",
+      196
+    ],
+    [
+      "List Number",
+      120
+    ],
+    [
+      "Heading 2",
+      81
+    ],
+    [
+      "Heading 1",
+      12
+    ]
+  ],
+  "style_avg_lengths": {
+    "Heading 1": 21.25,
+    "Heading 2": 13.0,
+    "Heading 3": 11.35,
+    "List Bullet": 17.06,
+    "List Number": 26.52,
+    "Normal": 15.5
+  },
+  "page_break_paragraph_indexes": [
+    3,
+    45,
+    70,
+    704,
+    1314,
+    2004,
+    2654,
+    3308,
+    3932,
+    4534,
+    5185,
+    5226
+  ],
+  "used_style_snapshot": {
+    "Heading 1": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 16.0,
+      "bold": true,
+      "italic": null,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": 1.0,
+      "keep_with_next": true,
+      "page_break_before": null
+    },
+    "Heading 2": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 14.0,
+      "bold": true,
+      "italic": null,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 8.0,
+      "space_after_pt": 4.0,
+      "line_spacing": 1.0,
+      "keep_with_next": true,
+      "page_break_before": null
+    },
+    "Heading 3": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 12.0,
+      "bold": true,
+      "italic": null,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 8.0,
+      "space_after_pt": 4.0,
+      "line_spacing": 1.0,
+      "keep_with_next": true,
+      "page_break_before": null
+    },
+    "List Bullet": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 10.5,
+      "bold": null,
+      "italic": null,
+      "alignment": null,
+      "left_indent_pt": 19.85,
+      "first_line_indent_pt": -7.1,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "keep_with_next": null,
+      "page_break_before": null
+    },
+    "List Number": {
+      "type": "PARAGRAPH (1)",
+      "base": "Normal",
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 10.5,
+      "bold": null,
+      "italic": null,
+      "alignment": null,
+      "left_indent_pt": 19.85,
+      "first_line_indent_pt": -7.1,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "keep_with_next": null,
+      "page_break_before": null
+    },
+    "Normal": {
+      "type": "PARAGRAPH (1)",
+      "base": null,
+      "font_name": "BIZ UDPゴシック",
+      "font_size_pt": 10.5,
+      "bold": null,
+      "italic": null,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "keep_with_next": null,
+      "page_break_before": null
+    }
+  },
+  "samples": [
+    {
+      "style": "Normal",
+      "text": "女子高生でもわかる不動産",
+      "full_len": 12,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "女子高生でもわかる不動産",
+          "bold": false,
+          "italic": null,
+          "size_pt": 20.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 0
+    },
+    {
+      "style": "Normal",
+      "text": "第5巻：先生、賃貸トラブルは契約書だけでは終わりません",
+      "full_len": 27,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第5巻：先生、賃貸トラブルは契約書だけでは終わりません",
+          "bold": false,
+          "italic": null,
+          "size_pt": 14.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 2
+    },
+    {
+      "style": "Normal",
+      "text": "―感情ではなく、契約・手続・証拠で動くための賃貸判例8選―",
+      "full_len": 29,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": null,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "―感情ではなく、契約・手続・証拠で動くための賃貸判例8選―",
+          "bold": true,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 3
+    },
+    {
+      "style": "Heading 1",
+      "text": "まえがき",
+      "full_len": 4,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "まえがき",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 4
+    },
+    {
+      "style": "Normal",
+      "text": "賃貸トラブルは、感情で動くほどこじれます。",
+      "full_len": 21,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "賃貸トラブルは、感情で動くほどこじれます。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 6
+    },
+    {
+      "style": "Normal",
+      "text": "「迷惑だから出ていってほしい」",
+      "full_len": 15,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「迷惑だから出ていってほしい」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 8
+    },
+    {
+      "style": "Normal",
+      "text": "「不安だから鍵を渡したくない」",
+      "full_len": 15,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「不安だから鍵を渡したくない」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 9
+    },
+    {
+      "style": "Normal",
+      "text": "「騒音がひどいから当然勝てる」",
+      "full_len": 15,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「騒音がひどいから当然勝てる」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 10
+    },
+    {
+      "style": "Normal",
+      "text": "「契約書に書いてあるから問題ない」",
+      "full_len": 17,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「契約書に書いてあるから問題ない」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 11
+    },
+    {
+      "style": "Normal",
+      "text": "現場では、このように考えたくなる場面が少なくありません。貸主にも事情があります。借主にも生活があります。管理会社や仲介会社も、限られた時間の中で判断を迫られます。",
+      "full_len": 81,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "現場では、このように考えたくなる場面が少なくありません。貸主にも事情があります。借主にも生活があります。管理会社や仲介会",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 13
+    },
+    {
+      "style": "Normal",
+      "text": "しかし、裁判や実務上の解決では、怒りの強さや不安の大きさだけでは足りません。",
+      "full_len": 38,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "しかし、裁判や実務上の解決では、怒りの強さや不安の大きさだけでは足りません。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 15
+    },
+    {
+      "style": "Normal",
+      "text": "必要になるのは、契約、手続、証拠です。",
+      "full_len": 19,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "必要になるのは、契約、手続、証拠です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 17
+    },
+    {
+      "style": "Normal",
+      "text": "契約で何を決めたのか。必要な説明や書面交付をしたのか。いつ、誰が、何を確認したのか。苦情や事故の内容を、客観的に説明できる形で残しているのか。こうした積み重ねが、トラブル発生後の結論を大きく左右します。",
+      "full_len": 101,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "契約で何を決めたのか。必要な説明や書面交付をしたのか。いつ、誰が、何を確認したのか。苦情や事故の内容を、客観的に説明でき",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 19
+    },
+    {
+      "style": "Normal",
+      "text": "本書では、賃貸契約・賃貸管理で起こりやすい8つのトラブルを扱います。",
+      "full_len": 34,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書では、賃貸契約・賃貸管理で起こりやすい8つのトラブルを扱います。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 21
+    },
+    {
+      "style": "Normal",
+      "text": "ベランダ排水口の放置による浸水、上階騒音、敷金精算、民泊利用をめぐる用途制限、定期借家契約の手続、契約後の鍵引渡拒否、長期不在の借主への対応、店舗の無断転貸・無断改装です。",
+      "full_len": 86,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "ベランダ排水口の放置による浸水、上階騒音、敷金精算、民泊利用をめぐる用途制限、定期借家契約の手続、契約後の鍵引渡拒否、長",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 23
+    },
+    {
+      "style": "Normal",
+      "text": "どれも、現場では「ありそうな話」です。だからこそ、単なる法律知識として読むのではなく、自分の物件、自分の契約、自分の業務に置き換えて読んでください。",
+      "full_len": 74,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "どれも、現場では「ありそうな話」です。だからこそ、単なる法律知識として読むのではなく、自分の物件、自分の契約、自分の業務",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 25
+    },
+    {
+      "style": "Normal",
+      "text": "本書の読者対象は、不動産オーナー、貸主、借主、管理会社、仲介会社、賃貸実務を学びたい人です。",
+      "full_len": 46,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書の読者対象は、不動産オーナー、貸主、借主、管理会社、仲介会社、賃貸実務を学びたい人です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 27
+    },
+    {
+      "style": "Normal",
+      "text": "オーナーや貸主にとっては、どこまで契約で決め、どこから記録で備えるべきかを確認する本です。",
+      "full_len": 45,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "オーナーや貸主にとっては、どこまで契約で決め、どこから記録で備えるべきかを確認する本です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 29
+    },
+    {
+      "style": "Normal",
+      "text": "借主にとっては、どのような行動がトラブルになり、どのような主張には証拠が必要になるのかを知る本です。",
+      "full_len": 50,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "借主にとっては、どのような行動がトラブルになり、どのような主張には証拠が必要になるのかを知る本です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 31
+    },
+    {
+      "style": "Normal",
+      "text": "管理会社や仲介会社にとっては、説明、確認、記録、初動対応の抜けを減らすための実務チェックの本です。",
+      "full_len": 49,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "管理会社や仲介会社にとっては、説明、確認、記録、初動対応の抜けを減らすための実務チェックの本です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 33
+    },
+    {
+      "style": "Normal",
+      "text": "賃貸トラブルでは、「相手が悪い」と思った瞬間ほど注意が必要です。相手が悪いかどうかと、自分が正しい手順で動いたかどうかは別の問題だからです。",
+      "full_len": 70,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "賃貸トラブルでは、「相手が悪い」と思った瞬間ほど注意が必要です。相手が悪いかどうかと、自分が正しい手順で動いたかどうかは",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 35
+    },
+    {
+      "style": "Normal",
+      "text": "本書で一貫して伝えたいことは、次の一点です。",
+      "full_len": 22,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書で一貫して伝えたいことは、次の一点です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 37
+    },
+    {
+      "style": "Normal",
+      "text": "感情ではなく、契約・手続・証拠で動く。",
+      "full_len": 19,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "感情ではなく、契約・手続・証拠で動く。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 39
+    },
+    {
+      "style": "Normal",
+      "text": "この視点を持つだけで、現場の判断はかなり変わります。言い切る前に契約書を見る。拒否する前に手続を確認する。請求する前に証拠をそろえる。自力で動く前に、法的に許される対応かを確認する。",
+      "full_len": 91,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "この視点を持つだけで、現場の判断はかなり変わります。言い切る前に契約書を見る。拒否する前に手続を確認する。請求する前に証",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 41
+    },
+    {
+      "style": "Normal",
+      "text": "本書は、難しい法律を暗記するための本ではありません。賃貸実務で判断を間違えないために、典型的な失敗例から学ぶ本です。",
+      "full_len": 58,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書は、難しい法律を暗記するための本ではありません。賃貸実務で判断を間違えないために、典型的な失敗例から学ぶ本です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 43
+    },
+    {
+      "style": "Normal",
+      "text": "読者の方が、次のトラブルに直面したとき、感情的な判断に流されず、契約・手続・証拠に戻って考えられるようになることを目指します。",
+      "full_len": 63,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "読者の方が、次のトラブルに直面したとき、感情的な判断に流されず、契約・手続・証拠に戻って考えられるようになることを目指し",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 45
+    },
+    {
+      "style": "Heading 1",
+      "text": "目次",
+      "full_len": 2,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "目次",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 46
+    },
+    {
+      "style": "Normal",
+      "text": "第1章：先生、ベランダ排水口を掃除しなかっただけで254万円ですか？",
+      "full_len": 34,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第1章：先生、ベランダ排水口を掃除しなかっただけで254万円ですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 48
+    },
+    {
+      "style": "Normal",
+      "text": "――浸水事故から学ぶ借主の善管注意義務と管理会社の記録",
+      "full_len": 27,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――浸水事故から学ぶ借主の善管注意義務と管理会社の記録",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 49
+    },
+    {
+      "style": "Normal",
+      "text": "第2章：先生、上の階がうるさいのに裁判で負けるんですか？",
+      "full_len": 28,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第2章：先生、上の階がうるさいのに裁判で負けるんですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 51
+    },
+    {
+      "style": "Normal",
+      "text": "――騒音トラブルは、怒りより記録がものをいう話",
+      "full_len": 23,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――騒音トラブルは、怒りより記録がものをいう話",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 52
+    },
+    {
+      "style": "Normal",
+      "text": "第3章：先生、敷金からどこまで引いていいんですか？",
+      "full_len": 25,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第3章：先生、敷金からどこまで引いていいんですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 54
+    },
+    {
+      "style": "Normal",
+      "text": "――更新料・清掃費・エアコン清掃費を項目別に分ける話",
+      "full_len": 26,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――更新料・清掃費・エアコン清掃費を項目別に分ける話",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 55
+    },
+    {
+      "style": "Normal",
+      "text": "第4章：先生、民泊OKで貸したのに土地の契約でダメでした",
+      "full_len": 28,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第4章：先生、民泊OKで貸したのに土地の契約でダメでした",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 57
+    },
+    {
+      "style": "Normal",
+      "text": "――借地契約・管理規約・用途制限を見落とさない話",
+      "full_len": 24,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――借地契約・管理規約・用途制限を見落とさない話",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 58
+    },
+    {
+      "style": "Normal",
+      "text": "第5章：先生、定期借家は契約書だけでは足りないんですか？",
+      "full_len": 28,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第5章：先生、定期借家は契約書だけでは足りないんですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 60
+    },
+    {
+      "style": "Normal",
+      "text": "――借地借家法38条の事前説明と媒介業者責任",
+      "full_len": 22,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――借地借家法38条の事前説明と媒介業者責任",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 61
+    },
+    {
+      "style": "Normal",
+      "text": "第6章：先生、契約後に不安になっても鍵を渡さないでいいんですか？",
+      "full_len": 32,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第6章：先生、契約後に不安になっても鍵を渡さないでいいんですか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 63
+    },
+    {
+      "style": "Normal",
+      "text": "――入居審査・反社確認・引渡拒否の限界",
+      "full_len": 19,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――入居審査・反社確認・引渡拒否の限界",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 64
+    },
+    {
+      "style": "Normal",
+      "text": "第7章：先生、家賃が入っていても行方不明なら解除できますか？",
+      "full_len": 30,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第7章：先生、家賃が入っていても行方不明なら解除できますか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 66
+    },
+    {
+      "style": "Normal",
+      "text": "――長期不在特約、正当事由、立退料と自力救済の禁止",
+      "full_len": 25,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――長期不在特約、正当事由、立退料と自力救済の禁止",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 67
+    },
+    {
+      "style": "Normal",
+      "text": "第8章：先生、貸した店が勝手に又貸し・改装したら解除できますか？",
+      "full_len": 32,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第8章：先生、貸した店が勝手に又貸し・改装したら解除できますか？",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 69
+    },
+    {
+      "style": "Normal",
+      "text": "――店舗賃貸の承諾管理、占有者確認、原状回復",
+      "full_len": 22,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "――店舗賃貸の承諾管理、占有者確認、原状回復",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 70
+    },
+    {
+      "style": "Heading 1",
+      "text": "第1章：先生、ベランダ排水口を掃除しなかっただけで254万円ですか？",
+      "full_len": 34,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "第",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "1",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "章：先生、ベランダ排水口を掃除しなかっただけで",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "254",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 71
+    },
+    {
+      "style": "Normal",
+      "text": "――浸水事故から学ぶ借主の善管注意義務と管理会社の記録",
+      "full_len": 27,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "――浸水事故から学ぶ借主の善管注意義務と管理会社の記録",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 72
+    },
+    {
+      "style": "Normal",
+      "text": "ベランダの排水口は、ふだんはほとんど意識されません。",
+      "full_len": 26,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "ベランダの排水口は、ふだんはほとんど意識されません。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 74
+    },
+    {
+      "style": "Normal",
+      "text": "洗濯物を干す場所。",
+      "full_len": 9,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "洗濯物を干す場所。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 76
+    },
+    {
+      "style": "Normal",
+      "text": "鉢植えを置く場所。",
+      "full_len": 9,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "鉢植えを置く場所。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 77
+    },
+    {
+      "style": "Normal",
+      "text": "少し外の空気を吸う場所。",
+      "full_len": 12,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "少し外の空気を吸う場所。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 78
+    },
+    {
+      "style": "Normal",
+      "text": "そのくらいの感覚で使っている人が多いはずです。",
+      "full_len": 23,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "そのくらいの感覚で使っている人が多いはずです。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 80
+    },
+    {
+      "style": "Normal",
+      "text": "しかし、排水口が落ち葉、土、ゴミで塞がれると、話は一気に変わります。",
+      "full_len": 34,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "しかし、排水口が落ち葉、土、ゴミで塞がれると、話は一気に変わります。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 82
+    },
+    {
+      "style": "Normal",
+      "text": "ベランダに溜まった水は、行き場を失います。",
+      "full_len": 21,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "ベランダに溜まった水は、行き場を失います。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 84
+    },
+    {
+      "style": "Normal",
+      "text": "水位が上がれば、室内に入り込みます。",
+      "full_len": 18,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "水位が上がれば、室内に入り込みます。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 85
+    },
+    {
+      "style": "Normal",
+      "text": "さらに建物内部を伝って、階下の天井、壁、床まで濡らすことがあります。",
+      "full_len": 34,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "さらに建物内部を伝って、階下の天井、壁、床まで濡らすことがあります。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 86
+    },
+    {
+      "style": "Normal",
+      "text": "今回扱うのは、まさにその事件です。",
+      "full_len": 17,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "今回扱うのは、まさにその事件です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 88
+    },
+    {
+      "style": "Normal",
+      "text": "台風による大雨の際、バルコニーから室内と階下複数室に浸水被害が発生しました。",
+      "full_len": 38,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "台風による大雨の際、バルコニーから室内と階下複数室に浸水被害が発生しました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 90
+    },
+    {
+      "style": "Normal",
+      "text": "貸主は、借主が排水口の清掃を怠ったとして、修理費用等254万円余を請求しました。",
+      "full_len": 40,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "貸主は、借主が排水口の清掃を怠ったとして、修理費用等254万円余を請求しました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 91
+    },
+    {
+      "style": "Normal",
+      "text": "裁判所は、この事案では、借主の清掃義務違反と損害との因果関係を認めました。",
+      "full_len": 37,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "裁判所は、この事案では、借主の清掃義務違反と損害との因果関係を認めました。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 93
+    },
+    {
+      "style": "Normal",
+      "text": "ただし、「台風でも必ず借主責任になる」「排水口が詰まれば常に借主責任」という話ではありません。",
+      "full_len": 47,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "ただし、「台風でも必ず借主責任になる」「排水口が詰まれば常に借主責任」という話ではありません。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 95
+    },
+    {
+      "style": "Normal",
+      "text": "この事案では、契約の特約、大型鉢植えやプランターの設置、排水管交換済みという経緯、他の原因が証拠上見当たらなかったことなどが重なりました。",
+      "full_len": 69,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "この事案では、契約の特約、大型鉢植えやプランターの設置、排水管交換済みという経緯、他の原因が証拠上見当たらなかったことな",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 97
+    },
+    {
+      "style": "Heading 2",
+      "text": "1. 導入の会話劇",
+      "full_len": 9,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 8.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "1. ",
+          "bold": true,
+          "italic": null,
+          "size_pt": 14.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "導入の会話劇",
+          "bold": true,
+          "italic": null,
+          "size_pt": 14.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 99
+    },
+    {
+      "style": "Normal",
+      "text": "「先生、ベランダの排水口って、掃除しないと裁判になるんスか？」",
+      "full_len": 31,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「先生、ベランダの排水口って、掃除しないと裁判になるんスか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 101
+    },
+    {
+      "style": "Normal",
+      "text": "事務所の入口から、沼子がいきなり顔を出した。",
+      "full_len": 22,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "事務所の入口から、沼子がいきなり顔を出した。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 103
+    },
+    {
+      "style": "Normal",
+      "text": "手には、台風情報が映ったスマホを握っている。",
+      "full_len": 22,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "手には、台風情報が映ったスマホを握っている。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 104
+    },
+    {
+      "style": "Normal",
+      "text": "「質問が急ね」",
+      "full_len": 7,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「質問が急ね」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 106
+    },
+    {
+      "style": "Normal",
+      "text": "モモエは書類から顔を上げた。",
+      "full_len": 14,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "モモエは書類から顔を上げた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 108
+    },
+    {
+      "style": "Normal",
+      "text": "「いや、ニュースで台風って見て。うちのベランダ、植木鉢の下に葉っぱがたまってるんスよ。でも、ベランダ掃除って、なんか家事の中でも後回し代表じゃないですか」",
+      "full_len": 77,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「いや、ニュースで台風って見て。うちのベランダ、植木鉢の下に葉っぱがたまってるんスよ。でも、ベランダ掃除って、なんか家事",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 110
+    },
+    {
+      "style": "Normal",
+      "text": "「後回し代表にしないで」",
+      "full_len": 12,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「後回し代表にしないで」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 112
+    },
+    {
+      "style": "Normal",
+      "text": "しおりが、無言でホワイトボードに四つの単語を書いた。",
+      "full_len": 26,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "しおりが、無言でホワイトボードに四つの単語を書いた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 114
+    },
+    {
+      "style": "List Bullet",
+      "text": "排水口",
+      "full_len": 3,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "排水口",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 116
+    },
+    {
+      "style": "List Bullet",
+      "text": "植木鉢の土",
+      "full_len": 5,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "植木鉢の土",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 117
+    },
+    {
+      "style": "List Bullet",
+      "text": "台風前確認",
+      "full_len": 5,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "台風前確認",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 118
+    },
+    {
+      "style": "List Bullet",
+      "text": "階下被害",
+      "full_len": 4,
+      "alignment": 0,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 3.0,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "階下被害",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 119
+    },
+    {
+      "style": "Normal",
+      "text": "沼子が顔をしかめる。",
+      "full_len": 10,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "沼子が顔をしかめる。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 121
+    },
+    {
+      "style": "Normal",
+      "text": "「階下被害？ ベランダの排水口と、下の階って関係あるんスか？」",
+      "full_len": 31,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「階下被害？ ベランダの排水口と、下の階って関係あるんスか？」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 123
+    },
+    {
+      "style": "Normal",
+      "text": "「ある」",
+      "full_len": 4,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「ある」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 125
+    },
+    {
+      "style": "Normal",
+      "text": "モモエは短く答えた。",
+      "full_len": 10,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "モモエは短く答えた。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 127
+    },
+    {
+      "style": "Normal",
+      "text": "「ベランダに水が溜まる。室内に入る。床を伝う。建物の内部を通る。下の階の天井や壁に水が出る。そういう流れは実際にある」",
+      "full_len": 59,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「ベランダに水が溜まる。室内に入る。床を伝う。建物の内部を通る。下の階の天井や壁に水が出る。そういう流れは実際にある」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 129
+    },
+    {
+      "style": "Normal",
+      "text": "「え、じゃあベランダの排水口って、下の階の天井につながってるみたいなものじゃないですか」",
+      "full_len": 44,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「え、じゃあベランダの排水口って、下の階の天井につながってるみたいなものじゃないですか」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 131
+    },
+    {
+      "style": "Normal",
+      "text": "「感覚としては、その理解でいいわ」",
+      "full_len": 17,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "「感覚としては、その理解でいいわ」",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 133
+    }
+  ],
+  "tail_samples": [
+    {
+      "style": "Normal",
+      "text": "だからこそ、トラブルが起きてから感情的に判断するのではなく、平時から確認しておくことが重要です。",
+      "full_len": 48,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "だからこそ、トラブルが起きてから感情的に判断するのではなく、平時から確認しておくことが重要です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5208
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5209
+    },
+    {
+      "style": "Normal",
+      "text": "自分の契約書には、何が書かれているのか。",
+      "full_len": 20,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "自分の契約書には、何が書かれているのか。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5210
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5211
+    },
+    {
+      "style": "Normal",
+      "text": "説明した記録は残っているのか。",
+      "full_len": 15,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "説明した記録は残っているのか。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5212
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5213
+    },
+    {
+      "style": "Normal",
+      "text": "苦情、事故、修繕、承諾、連絡不能の経緯を、後から第三者に説明できる形で残しているのか。",
+      "full_len": 43,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "苦情、事故、修繕、承諾、連絡不能の経緯を、後から第三者に説明できる形で残しているのか。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5214
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5215
+    },
+    {
+      "style": "Normal",
+      "text": "本書が、その見直しのきっかけになれば幸いです。",
+      "full_len": 23,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書が、その見直しのきっかけになれば幸いです。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5216
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5217
+    },
+    {
+      "style": "Normal",
+      "text": "次巻以降では、売買トラブル、修繕・滞納、税務・収益管理など、賃貸管理と不動産実務に関わる別のテーマも扱っていく予定です。",
+      "full_len": 60,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "次巻以降では、売買トラブル、修繕・滞納、税務・収益管理など、賃貸管理と不動産実務に関わる別のテーマも扱っていく予定です。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5218
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5219
+    },
+    {
+      "style": "Normal",
+      "text": "不動産の現場では、正解がすぐに見えない場面が少なくありません。",
+      "full_len": 31,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "不動産の現場では、正解がすぐに見えない場面が少なくありません。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5220
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5221
+    },
+    {
+      "style": "Normal",
+      "text": "そのときに必要なのは、相手を決めつけることではなく、契約を確認し、手続を踏み、証拠で説明できる状態を作ることです。",
+      "full_len": 57,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "そのときに必要なのは、相手を決めつけることではなく、契約を確認し、手続を踏み、証拠で説明できる状態を作ることです。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5222
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5223
+    },
+    {
+      "style": "Normal",
+      "text": "本書を読み終えたら、ぜひ一度、ご自身の契約書、重要事項説明書、説明記録、管理記録、修繕記録、メールやメッセージの保存方法を見直してみてください。",
+      "full_len": 72,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本書を読み終えたら、ぜひ一度、ご自身の契約書、重要事項説明書、説明記録、管理記録、修繕記録、メールやメッセージの保存方法",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5224
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5225
+    },
+    {
+      "style": "Normal",
+      "text": "次のトラブルを防ぐ準備は、普段の記録から始まります。",
+      "full_len": 26,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": true,
+      "runs": [
+        {
+          "text": "次のトラブルを防ぐ準備は、普段の記録から始まります。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "size_pt": null,
+          "name": null,
+          "fonts": {}
+        }
+      ],
+      "index": 5226
+    },
+    {
+      "style": "Heading 1",
+      "text": "著者プロフィール",
+      "full_len": 8,
+      "alignment": 1,
+      "left_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": 14.0,
+      "space_after_pt": 4.0,
+      "line_spacing": null,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "著者プロフィール",
+          "bold": true,
+          "italic": null,
+          "size_pt": 16.0,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5227
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5228
+    },
+    {
+      "style": "Normal",
+      "text": "著者名：山城 学（仮）",
+      "full_len": 11,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "著者名：山城 学（仮）",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5229
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5230
+    },
+    {
+      "style": "Normal",
+      "text": "不動産管理・賃貸仲介の実務に携わりながら、オーナー、借主、管理会社、仲介会社の間で起きるトラブルを、現場目線で整理している。",
+      "full_len": 62,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "不動産管理・賃貸仲介の実務に携わりながら、オーナー、借主、管理会社、仲介会社の間で起きるトラブルを、現場目線で整理してい",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5231
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5232
+    },
+    {
+      "style": "Normal",
+      "text": "賃貸借契約、重要事項説明、入居中の管理対応、退去精算、修繕、近隣トラブルなど、日々の実務で判断に迷いやすいテーマを中心に扱う。",
+      "full_len": 63,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "賃貸借契約、重要事項説明、入居中の管理対応、退去精算、修繕、近隣トラブルなど、日々の実務で判断に迷いやすいテーマを中心に",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5233
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5234
+    },
+    {
+      "style": "Normal",
+      "text": "難しい法律論をそのまま説明するのではなく、「現場で何を確認すべきか」「どの記録を残すべきか」「どの順番で対応すべきか」に落とし込むことを重視している。",
+      "full_len": 75,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "難しい法律論をそのまま説明するのではなく、「現場で何を確認すべきか」「どの記録を残すべきか」「どの順番で対応すべきか」に",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5235
+    },
+    {
+      "style": "Normal",
+      "text": "",
+      "full_len": 0,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [],
+      "index": 5236
+    },
+    {
+      "style": "Normal",
+      "text": "本シリーズでは、不動産判例を素材に、貸主・借主・管理会社・仲介会社が実務で使える確認ポイントを整理していく。",
+      "full_len": 54,
+      "alignment": 3,
+      "left_indent_pt": null,
+      "first_line_indent_pt": 10.5,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": 1.0,
+      "page_break": false,
+      "runs": [
+        {
+          "text": "本シリーズでは、不動産判例を素材に、貸主・借主・管理会社・仲介会社が実務で使える確認ポイントを整理していく。",
+          "bold": null,
+          "italic": null,
+          "size_pt": 10.5,
+          "name": "BIZ UDPゴシック",
+          "fonts": {
+            "ascii": "BIZ UDPゴシック",
+            "hAnsi": "BIZ UDPゴシック",
+            "eastAsia": "BIZ UDPゴシック",
+            "cs": "BIZ UDPゴシック"
+          }
+        }
+      ],
+      "index": 5237
+    }
+  ]
+}
